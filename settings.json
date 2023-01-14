@@ -1,0 +1,88 @@
+{
+
+   // Внешний вид рабочей среды:
+
+   "workbench.colorTheme": "One Dark Pro Monokai Darker",
+   "workbench.iconTheme": "material-icon-theme",
+   "workbench.startupEditor": "none",
+   "workbench.editor.closeEmptyGroups": false,
+   "workbench.layoutControl.enabled": false,
+
+   "workbench.colorCustomizations": {
+      "editor.background": "#191b1f",
+      "scrollbar.shadow": "#ffffff00",
+      "widget.shadow": "#ffffff00",
+      "titleBar.activeBackground": "#0f1113",
+      "statusBar.background": "#0f1113",
+      "editorIndentGuide.activeBackground": "#ffffff40",
+      "editorIndentGuide.background": "#ffffff10",
+   },
+
+   // Общие настройки функций редактора:
+
+   "editor.minimap.enabled": false,
+   "editor.wordWrap": "on",
+   "editor.guides.indentation": true,
+   "editor.renderWhitespace": "none",
+   "editor.detectIndentation": false,
+   "editor.mouseWheelZoom": true,
+   "editor.formatOnSave": true,
+   "editor.hover.enabled": false,
+   "editor.tabSize": 3, // Устанавливает размер отступов
+   "explorer.confirmDragAndDrop": false, // Отключает подтверждение при drag and drop файлов
+   "explorer.confirmDelete": false, // Отключает подтверждение удаления файла
+   "breadcrumbs.enabled": false, // Отключает хлебные крошки
+   "files.trimTrailingWhitespace": true, // Удаляет ненужные символы пробелов при сохранении
+
+   // Настройки форматирования HTML:
+
+   "html.format.wrapLineLength": 0,
+   "[html]": {
+      "editor.defaultFormatter": "vscode.html-language-features"
+   },
+
+   // Настройки форматирования JavaScript:
+
+   "prettier.printWidth": 120,
+   "prettier.tabWidth": 3,
+   "[javascript]": {
+      "editor.defaultFormatter": "vscode.typescript-language-features"
+   },
+
+   // Настройки LiveServer:
+
+   "liveServer.settings.donotShowInfoMsg": true,
+   "liveSassCompile.settings.showOutputWindowOn": "None",
+   "liveSassCompile.settings.generateMap": false,
+
+   // Блок настроек форматирования CSS:
+
+   "scss.format.newlineBetweenSelectors": false,
+   "css.format.newlineBetweenSelectors": false,
+   "css.format.spaceAroundSelectorSeparator": true,
+   "scss.format.spaceAroundSelectorSeparator": true,
+
+   "[css]": {
+      "editor.defaultFormatter": "vscode.css-language-features"
+   },
+   "[scss]": {
+      "editor.defaultFormatter": "vscode.css-language-features"
+   },
+
+   "ecsstractor_port.bem_nesting": true,
+
+   "stylelint.snippet": ["css", "less", "postcss", "scss"],
+   "stylelint.validate": ["css", "less", "postcss", "scss"],
+   "scss.validate": false,
+   "css.validate": false,
+   "less.validate": false,
+   "editor.codeActionsOnSave": {
+      "source.fixAll.stylelint": true
+   },
+
+   // Проверяльщики правописания:
+
+   "cSpell.userWords": ["amilogicface", "learnjavascript", "logicface", "Oloviannikov", "Photoshop"],
+   "vscodeGoogleTranslate.preferredLanguage": "English",
+   "cSpell.language": "en, ru",
+}
