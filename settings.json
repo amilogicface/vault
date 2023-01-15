@@ -9,6 +9,7 @@
    "workbench.layoutControl.enabled": false,
 
    "workbench.colorCustomizations": {
+
       "editor.background": "#191b1f",
       "scrollbar.shadow": "#ffffff00",
       "widget.shadow": "#ffffff00",
@@ -16,6 +17,14 @@
       "statusBar.background": "#0f1113",
       "editorIndentGuide.activeBackground": "#ffffff40",
       "editorIndentGuide.background": "#ffffff10",
+      "editorBracketMatch.border": "#34e5eb95",
+      "editorBracketMatch.background": "#34e5eb45",
+      "sideBar.background": "#17191c",
+      "editorGroupHeader.tabsBackground": "#17191c",
+      "tab.inactiveBackground": "#1b1e21",
+      "editor.lineHighlightBackground": "#cfdfff15",
+      "editor.foldBackground": "#cfdfff07"
+
    },
 
    // Общие настройки функций редактора:
@@ -32,7 +41,10 @@
    "explorer.confirmDragAndDrop": false, // Отключает подтверждение при drag and drop файлов
    "explorer.confirmDelete": false, // Отключает подтверждение удаления файла
    "breadcrumbs.enabled": false, // Отключает хлебные крошки
-   "files.trimTrailingWhitespace": true, // Удаляет ненужные символы пробелов при сохранении
+   "files.insertFinalNewline": true,
+   "files.trimFinalNewlines": true,
+   "files.trimTrailingWhitespace": true,
+   "editor.cursorBlinking": "smooth",
 
    // Настройки форматирования HTML:
 
@@ -85,4 +97,9 @@
    "cSpell.userWords": ["amilogicface", "learnjavascript", "logicface", "Oloviannikov", "Photoshop"],
    "vscodeGoogleTranslate.preferredLanguage": "English",
    "cSpell.language": "en, ru",
+
+   // Отключает отправку ошибок и других штук:
+
+   "telemetry.enableTelemetry": false,
+   "telemetry.enableCrashReporter": false
 }
