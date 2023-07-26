@@ -1,5 +1,4 @@
 {
-
    // Внешний вид рабочей среды:
 
    "workbench.colorTheme": "One Dark Pro Monokai Darker",
@@ -9,7 +8,6 @@
    "workbench.layoutControl.enabled": false,
 
    "workbench.colorCustomizations": {
-
       "editor.background": "#191b1f",
       "scrollbar.shadow": "#ffffff00",
       "widget.shadow": "#ffffff00",
@@ -23,8 +21,8 @@
       "editorGroupHeader.tabsBackground": "#17191c",
       "tab.inactiveBackground": "#1b1e21",
       "editor.lineHighlightBackground": "#cfdfff15",
-      "editor.foldBackground": "#cfdfff07"
-
+      "editor.foldBackground": "#cfdfff07",
+      "editorError.foreground": "#fc0303"
    },
 
    // Общие настройки функций редактора:
@@ -101,5 +99,6 @@
    // Отключает отправку ошибок и других штук:
 
    "telemetry.enableTelemetry": false,
-   "telemetry.enableCrashReporter": false
+   "telemetry.enableCrashReporter": false,
+   "terminal.integrated.defaultProfile.windows": "Git Bash"
 }
