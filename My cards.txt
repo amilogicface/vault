@@ -1,0 +1,1432 @@
+#separator:tab
+#html:true
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""Psychological Effects of Being Yelled At: Effects, And Tips"" src=""paste-f8d2ea9d55145c9d572ab41ca48909e3209549d9.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""yell"" data-ordinal=""1"">[...]</span> is to&nbsp;shout&nbsp;or say something very loudly, especially because you are angry or&nbsp;excited</span></div>
+<div class=Example><span>""Don't&nbsp;touch&nbsp;me"", - she&nbsp;<span class=""cloze"" data-cloze=""yelled"" data-ordinal=""1"">[...]</span>;&nbsp;They always&nbsp;<span class=""cloze"" data-cloze=""yell"" data-ordinal=""1"">[...]</span>&nbsp;at each other.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""Psychological Effects of Being Yelled At: Effects, And Tips"" src=""paste-f8d2ea9d55145c9d572ab41ca48909e3209549d9.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">yell</span> is to&nbsp;shout&nbsp;or say something very loudly, especially because you are angry or&nbsp;excited</span></div>
+<div class=Example><span>""Don't&nbsp;touch&nbsp;me"", - she&nbsp;<span class=""cloze"" data-ordinal=""1"">yelled</span>;&nbsp;They always&nbsp;<span class=""cloze"" data-ordinal=""1"">yell</span>&nbsp;at each other.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>j<b>e</b>l</span></div>
+<div class=Russian><span>Кричать</span></div>
+<div class=Sound><span>[sound:rec1690296057.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""Amount Pictures | Download Free Images on Unsplash"" src=""paste-44212eaf381b28b19cda783960f542d439aefdfb.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""amount"" data-ordinal=""1"">[...]</span> is a quantity&nbsp;of something such as time, money, or a&nbsp;substance</span></div>
+<div class=Example><span>a tiny <span class=""cloze"" data-cloze=""amount"" data-ordinal=""1"">[...]</span> of dirt;&nbsp;Please pay&nbsp;the full <span class=""cloze"" data-cloze=""amount"" data-ordinal=""1"">[...]</span>&nbsp;(<span style=""color: rgb(170, 170, 255);"">~of money</span>)&nbsp;by the end of the month.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""Amount Pictures | Download Free Images on Unsplash"" src=""paste-44212eaf381b28b19cda783960f542d439aefdfb.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">amount</span> is a quantity&nbsp;of something such as time, money, or a&nbsp;substance</span></div>
+<div class=Example><span>a tiny <span class=""cloze"" data-ordinal=""1"">amount</span> of dirt;&nbsp;Please pay&nbsp;the full <span class=""cloze"" data-ordinal=""1"">amount</span>&nbsp;(<span style=""color: rgb(170, 170, 255);"">~of money</span>)&nbsp;by the end of the month.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>əˈm<b>a</b>ʊnt</span></div>
+<div class=Russian><span>Колличество</span></div>
+<div class=Sound><span>[sound:rec1690295581.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""Illustration Young Woman Who Pleased Stock Vector (Royalty Free) 1307824081  | Shutterstock"" src=""paste-be88a20c1ffcb9b5acd38648bf28b5dec54951f8.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""pleased"" data-ordinal=""1"">[...]</span> is to feel happy&nbsp;or&nbsp;satisfied by something</span></div>
+<div class=Example><span>She seemed <span class=""cloze"" data-cloze=""pleased"" data-ordinal=""1"">[...]</span> by the compliment;&nbsp;That’s wonderful! I’m really <span class=""cloze"" data-cloze=""pleased"" data-ordinal=""1"">[...]</span> for you.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""Illustration Young Woman Who Pleased Stock Vector (Royalty Free) 1307824081  | Shutterstock"" src=""paste-be88a20c1ffcb9b5acd38648bf28b5dec54951f8.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">pleased</span> is to feel happy&nbsp;or&nbsp;satisfied by something</span></div>
+<div class=Example><span>She seemed <span class=""cloze"" data-ordinal=""1"">pleased</span> by the compliment;&nbsp;That’s wonderful! I’m really <span class=""cloze"" data-ordinal=""1"">pleased</span> for you.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>pl<b>iː</b>zd</span></div>
+<div class=Russian><span>Быть довольным или удовлетворенным, благодарным</span></div>
+<div class=Sound><span>[sound:rec1690296314.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""When and where to experience Lāhainā Noon (hawaiionthecheap.com)"" src=""paste-2f07a908e768cee1a479f59d84b194ac4fee6d25.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""noon"" data-ordinal=""1"">[...]</span> is a 12&nbsp;o’clock&nbsp;in the&nbsp;daytime</span></div>
+<div class=Example><span>We left home at <span class=""cloze"" data-cloze=""noon"" data-ordinal=""1"">[...]</span>;&nbsp;She&nbsp;promises&nbsp;to come for him at&nbsp;<span class=""cloze"" data-cloze=""noon"" data-ordinal=""1"">[...]</span>.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""When and where to experience Lāhainā Noon (hawaiionthecheap.com)"" src=""paste-2f07a908e768cee1a479f59d84b194ac4fee6d25.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">noon</span> is a 12&nbsp;o’clock&nbsp;in the&nbsp;daytime</span></div>
+<div class=Example><span>We left home at <span class=""cloze"" data-ordinal=""1"">noon</span>;&nbsp;She&nbsp;promises&nbsp;to come for him at&nbsp;<span class=""cloze"" data-ordinal=""1"">noon</span>.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>n<b>uː</b>n</span></div>
+<div class=Russian><span>Полдень</span></div>
+<div class=Sound><span>[sound:rec1690296201.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""Wordlady: This is exciting"" src=""paste-dc04a71849d86a95df8cc980fe21c30c7a8c958c.png"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""exciting"" data-ordinal=""1"">[...]</span> is to feel&nbsp;happy or to be interested</span></div>
+<div class=Example><span>an <span class=""cloze"" data-cloze=""exciting"" data-ordinal=""1"">[...]</span> discovery;&nbsp;I’ve got some very <span class=""cloze"" data-cloze=""exciting"" data-ordinal=""1"">[...]</span> news for you</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""Wordlady: This is exciting"" src=""paste-dc04a71849d86a95df8cc980fe21c30c7a8c958c.png"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">exciting</span> is to feel&nbsp;happy or to be interested</span></div>
+<div class=Example><span>an <span class=""cloze"" data-ordinal=""1"">exciting</span> discovery;&nbsp;I’ve got some very <span class=""cloze"" data-ordinal=""1"">exciting</span> news for you</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>ɪkˈs<b>a</b>ɪtɪŋ</span></div>
+<div class=Russian><span>Захватывающий, волнующий</span></div>
+<div class=Sound><span>[sound:rec1690295982.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""Download Smilies Emoticons Especially Royalty-Free Stock Illustration Image  - Pixabay"" src=""images-c31d470aba837bd711686e51821336d6c312acd9.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""especially"" data-ordinal=""1"">[...]</span> is used to&nbsp;emphasize&nbsp;that something is more important or happens more with one particular</span></div>
+<div class=Example><span>I never liked long walks, <span class=""cloze"" data-cloze=""especially"" data-ordinal=""1"">[...]</span> in winter;&nbsp;Feedback is <span class=""cloze"" data-cloze=""especially"" data-ordinal=""1"">[...]</span> important in learning skills.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""Download Smilies Emoticons Especially Royalty-Free Stock Illustration Image  - Pixabay"" src=""images-c31d470aba837bd711686e51821336d6c312acd9.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">especially</span> is used to&nbsp;emphasize&nbsp;that something is more important or happens more with one particular</span></div>
+<div class=Example><span>I never liked long walks, <span class=""cloze"" data-ordinal=""1"">especially</span> in winter;&nbsp;Feedback is <span class=""cloze"" data-ordinal=""1"">especially</span> important in learning skills.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>ɪˈsp<b>e</b>ʃəli</span></div>
+<div class=Russian><span>Особенно</span></div>
+<div class=Sound><span>[sound:rec1690295739.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""How to Clean Your Staircase"" src=""paste-24cc7ecb6885fbfce58b71d8dec5b484c683b773.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""stair"" data-ordinal=""1"">[...]</span> is one of the&nbsp;steps&nbsp;in a set</span></div>
+<div class=Example><span>Lucy sat down on the bottom <span class=""cloze"" data-cloze=""stair"" data-ordinal=""1"">[...]</span></span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""How to Clean Your Staircase"" src=""paste-24cc7ecb6885fbfce58b71d8dec5b484c683b773.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">stair</span> is one of the&nbsp;steps&nbsp;in a set</span></div>
+<div class=Example><span>Lucy sat down on the bottom <span class=""cloze"" data-ordinal=""1"">stair</span></span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>st<b>e</b>r</span></div>
+<div class=Russian><span>Ступенька, лестница</span></div>
+<div class=Sound><span>[sound:rec1690295384.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""Occur - definition and meaning with pictures | Picture Dictionary &amp; Books"" src=""paste-206e50b48da9d99b6664eac8c8c2789a9158e1d1.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""occur"" data-ordinal=""1"">[...]</span> is to happen</span></div>
+<div class=Example><span>A third of accidental deaths <span class=""cloze"" data-cloze=""occur"" data-ordinal=""1"">[...]</span> in the home;&nbsp;The explosion <span class=""cloze"" data-cloze=""occurred"" data-ordinal=""1"">[...]</span> at 5.30 a.m.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""Occur - definition and meaning with pictures | Picture Dictionary &amp; Books"" src=""paste-206e50b48da9d99b6664eac8c8c2789a9158e1d1.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">occur</span> is to happen</span></div>
+<div class=Example><span>A third of accidental deaths <span class=""cloze"" data-ordinal=""1"">occur</span> in the home;&nbsp;The explosion <span class=""cloze"" data-ordinal=""1"">occurred</span> at 5.30 a.m.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>əˈk<b>ɜː</b>r</span></div>
+<div class=Russian><span>Происходить, случаться</span></div>
+<div class=Sound><span>[sound:rec1690373124.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""How to Stop Being Nervous - TSMP Medical Blog"" src=""paste-ee37dc68e7394598a6e826a2494477174ad4291a.jpg"">
+<div class=Definition><span>&nbsp;<span class=""cloze"" data-cloze=""nervous"" data-ordinal=""1"">[...]</span> is to be worried&nbsp;or&nbsp;frightened&nbsp;about something, and&nbsp;unable&nbsp;to&nbsp;relax</span></div>
+<div class=Example><span>She was so <span class=""cloze"" data-cloze=""nervous"" data-ordinal=""1"">[...]</span> about her exams that she couldn’t sleep;&nbsp;You’re&nbsp;making&nbsp;me&nbsp;<span class=""cloze"" data-cloze=""nervous"" data-ordinal=""1"">[...]</span>.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""How to Stop Being Nervous - TSMP Medical Blog"" src=""paste-ee37dc68e7394598a6e826a2494477174ad4291a.jpg"">
+<div class=Definition><span>&nbsp;<span class=""cloze"" data-ordinal=""1"">nervous</span> is to be worried&nbsp;or&nbsp;frightened&nbsp;about something, and&nbsp;unable&nbsp;to&nbsp;relax</span></div>
+<div class=Example><span>She was so <span class=""cloze"" data-ordinal=""1"">nervous</span> about her exams that she couldn’t sleep;&nbsp;You’re&nbsp;making&nbsp;me&nbsp;<span class=""cloze"" data-ordinal=""1"">nervous</span>.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>ˈn<b>ɜ</b>rvəs</span></div>
+<div class=Russian><span>Быть нервным, впадать в нервоз</span></div>
+<div class=Sound><span>[sound:rec1690295510.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""Shout Stock Illustrations – 46,062 Shout Stock Illustrations, Vectors &amp;  Clipart - Dreamstime"" src=""paste-4e6d54ebafe1cd5053357f6b6b1fb6cafd85eb3a.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""shout"" data-ordinal=""1"">[...]</span> is to say something very loudly</span></div>
+<div class=Example><span>There’s no need to <span class=""cloze"" data-cloze=""shout"" data-ordinal=""1"">[...]</span>! I can hear you;&nbsp;I wish you’d stop <span class=""cloze"" data-cloze=""shouting"" data-ordinal=""1"">[...]</span> at the children.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""Shout Stock Illustrations – 46,062 Shout Stock Illustrations, Vectors &amp;  Clipart - Dreamstime"" src=""paste-4e6d54ebafe1cd5053357f6b6b1fb6cafd85eb3a.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">shout</span> is to say something very loudly</span></div>
+<div class=Example><span>There’s no need to <span class=""cloze"" data-ordinal=""1"">shout</span>! I can hear you;&nbsp;I wish you’d stop <span class=""cloze"" data-ordinal=""1"">shouting</span> at the children.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>ʃ<b>a</b>ʊt</span></div>
+<div class=Russian><span>Крикнуть, кричать</span></div>
+<div class=Sound><span>[sound:rec1690295930.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""Related-Party Transactions Draw Attention From Auditors"" src=""paste-1b7499849d8f04004b328b1894cd5b375bccf164.jpg"">
+<div class=Definition><span>things that are&nbsp;<span class=""cloze"" data-cloze=""related"" data-ordinal=""1"">[...]</span> are&nbsp;connected&nbsp;in some way</span></div>
+<div class=Example><span>Police now believe that the three crimes could be <span class=""cloze"" data-cloze=""related"" data-ordinal=""1"">[...]</span>;&nbsp;Education levels are strongly <span class=""cloze"" data-cloze=""related"" data-ordinal=""1"">[...]</span> to income.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""Related-Party Transactions Draw Attention From Auditors"" src=""paste-1b7499849d8f04004b328b1894cd5b375bccf164.jpg"">
+<div class=Definition><span>things that are&nbsp;<span class=""cloze"" data-ordinal=""1"">related</span> are&nbsp;connected&nbsp;in some way</span></div>
+<div class=Example><span>Police now believe that the three crimes could be <span class=""cloze"" data-ordinal=""1"">related</span>;&nbsp;Education levels are strongly <span class=""cloze"" data-ordinal=""1"">related</span> to income.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>rɪˈl<b>e</b>ɪtɪd</span></div>
+<div class=Russian><span>Связаны, объединены, состоят в родстве</span></div>
+<div class=Sound><span>[sound:rec1690296125.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""Define Every F***** Word Bot on Twitter: &quot;@fckeveryword In case you didn't  know... wondering --&amp;gt; wonder (verb): 1. to be in a state of wonder 2. to  feel surprise 3. to feel"" src=""paste-d9a90cf8f07e141528aacdea66986a2ff867ec4f.jpg"">
+<div class=Definition><span>to <span class=""cloze"" data-cloze=""wonder"" data-ordinal=""1"">[...]</span> is want&nbsp;to&nbsp;know&nbsp;something or to&nbsp;try&nbsp;to&nbsp;understand&nbsp;the&nbsp;reason&nbsp;for something</span></div>
+<div class=Example><span>What are they going to do now,&nbsp;I <span class=""cloze"" data-cloze=""wonder"" data-ordinal=""1"">[...]</span>;&nbsp;I <span class=""cloze"" data-cloze=""wonder"" data-ordinal=""1"">[...]</span> what he's making for&nbsp;dinner.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""Define Every F***** Word Bot on Twitter: &quot;@fckeveryword In case you didn't  know... wondering --&amp;gt; wonder (verb): 1. to be in a state of wonder 2. to  feel surprise 3. to feel"" src=""paste-d9a90cf8f07e141528aacdea66986a2ff867ec4f.jpg"">
+<div class=Definition><span>to <span class=""cloze"" data-ordinal=""1"">wonder</span> is want&nbsp;to&nbsp;know&nbsp;something or to&nbsp;try&nbsp;to&nbsp;understand&nbsp;the&nbsp;reason&nbsp;for something</span></div>
+<div class=Example><span>What are they going to do now,&nbsp;I <span class=""cloze"" data-ordinal=""1"">wonder</span>;&nbsp;I <span class=""cloze"" data-ordinal=""1"">wonder</span> what he's making for&nbsp;dinner.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>ˈw<b>ʌ</b>ndər</span></div>
+<div class=Russian><span>Интересоваться, желать знать</span></div>
+<div class=Sound><span>[sound:rec1690295323.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""Перевод слова &quot;Vandalism&quot; | LanGeek"" src=""images-d979306155cc36bc283df7c3d583deffac7641a7.jpg""><img alt=""Thief Vector Art, Icons, and Graphics for Free Download"" src=""paste-2104a80c7183a734ebb8778aebfdd6d12b58cc80.png"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""intentional"" data-ordinal=""1"">[...]</span> is planned&nbsp;or&nbsp;intended</span></div>
+<div class=Example><span>I did trip him, but it wasn’t <span class=""cloze"" data-cloze=""intentional"" data-ordinal=""1"">[...]</span>;&nbsp;an&nbsp;<span class=""cloze"" data-cloze=""intentional"" data-ordinal=""1"">[...]</span> violation&nbsp;of the&nbsp;tax&nbsp;laws</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""Перевод слова &quot;Vandalism&quot; | LanGeek"" src=""images-d979306155cc36bc283df7c3d583deffac7641a7.jpg""><img alt=""Thief Vector Art, Icons, and Graphics for Free Download"" src=""paste-2104a80c7183a734ebb8778aebfdd6d12b58cc80.png"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">intentional</span> is planned&nbsp;or&nbsp;intended</span></div>
+<div class=Example><span>I did trip him, but it wasn’t <span class=""cloze"" data-ordinal=""1"">intentional</span>;&nbsp;an&nbsp;<span class=""cloze"" data-ordinal=""1"">intentional</span> violation&nbsp;of the&nbsp;tax&nbsp;laws</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>ɪnˈt<b>e</b>nʃənəl</span></div>
+<div class=Russian><span>Намеренно, умышленно</span></div>
+<div class=Sound><span>[sound:rec1690295664.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""Long Division with Remainders - Wyzant Lessons"" src=""paste-6c8ae56da660d3e815cbffb5ed8b32396836b2e3.png"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""remainder"" data-ordinal=""1"">[...]</span> is like the number that is left when you&nbsp;divide&nbsp;one number by another number</span></div>
+<div class=Example><span>Fifteen divided by four gives you a <span class=""cloze"" data-cloze=""remainder"" data-ordinal=""1"">[...]</span> of 3;&nbsp;He&nbsp;drank&nbsp;the <span class=""cloze"" data-cloze=""remainder"" data-ordinal=""1"">[...]</span> of&nbsp;his&nbsp;coffee&nbsp;and got up to&nbsp;leave.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""Long Division with Remainders - Wyzant Lessons"" src=""paste-6c8ae56da660d3e815cbffb5ed8b32396836b2e3.png"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">remainder</span> is like the number that is left when you&nbsp;divide&nbsp;one number by another number</span></div>
+<div class=Example><span>Fifteen divided by four gives you a <span class=""cloze"" data-ordinal=""1"">remainder</span> of 3;&nbsp;He&nbsp;drank&nbsp;the <span class=""cloze"" data-ordinal=""1"">remainder</span> of&nbsp;his&nbsp;coffee&nbsp;and got up to&nbsp;leave.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>rɪˈm<b>e</b>ɪndər</span></div>
+<div class=Russian><span>Остаток</span></div>
+<div class=Sound><span>[sound:rec1690295857.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""Trust But Clarify | Portfolio for the Future | CAIA"" src=""images-b1b91b16f9a2030a28c3a463912944f6f36689b5.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""clarify"" data-ordinal=""1"">[...]</span> is to make something&nbsp;clearer&nbsp;or&nbsp;easier&nbsp;to&nbsp;understand</span></div>
+<div class=Example><span>Could you&nbsp;clarify&nbsp;one or two&nbsp;points&nbsp;for me?&nbsp;Reporters asked him to&nbsp;<span class=""cloze"" data-cloze=""clarify"" data-ordinal=""1"">[...]</span> his&nbsp;position</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""Trust But Clarify | Portfolio for the Future | CAIA"" src=""images-b1b91b16f9a2030a28c3a463912944f6f36689b5.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">clarify</span> is to make something&nbsp;clearer&nbsp;or&nbsp;easier&nbsp;to&nbsp;understand</span></div>
+<div class=Example><span>Could you&nbsp;clarify&nbsp;one or two&nbsp;points&nbsp;for me?&nbsp;Reporters asked him to&nbsp;<span class=""cloze"" data-ordinal=""1"">clarify</span> his&nbsp;position</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>ˈkl<b>æ</b>rɪfaɪ</span></div>
+<div class=Russian><span>Прояснять, объяснять</span></div>
+<div class=Sound><span>[sound:rec1690296088.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""Letter of Intent: What Is It?"" src=""images-2a9029a6b10e3f199b679ffff21da5e41360fb47.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""intent"" data-ordinal=""1"">[...]</span> is what someone&nbsp;wants&nbsp;and&nbsp;plans&nbsp;to do</span></div>
+<div class=Example><span>&nbsp;It had not been his <span class=""cloze"" data-cloze=""intent"" data-ordinal=""1"">[...]</span> to&nbsp;hurt&nbsp;anyone;&nbsp;She&nbsp;seems&nbsp;<span class=""cloze"" data-cloze=""intent"" data-ordinal=""1"">[...]</span> on&nbsp;winning&nbsp;this year's&nbsp;tennis&nbsp;tournament.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""Letter of Intent: What Is It?"" src=""images-2a9029a6b10e3f199b679ffff21da5e41360fb47.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">intent</span> is what someone&nbsp;wants&nbsp;and&nbsp;plans&nbsp;to do</span></div>
+<div class=Example><span>&nbsp;It had not been his <span class=""cloze"" data-ordinal=""1"">intent</span> to&nbsp;hurt&nbsp;anyone;&nbsp;She&nbsp;seems&nbsp;<span class=""cloze"" data-ordinal=""1"">intent</span> on&nbsp;winning&nbsp;this year's&nbsp;tennis&nbsp;tournament.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>ɪnˈt<b>e</b>nt</span></div>
+<div class=Russian><span>Намеренно, намерение, иметь решимость сделать что-то</span></div>
+<div class=Sound><span>[sound:rec1690296240.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""Physics: The Science of the Universe and Everything In It |  EnvironmentalScience.org"" src=""paste-3d0b193a09f5074abc2bb5b0736085e7b13a7776.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""science"" data-ordinal=""1"">[...]</span> is a knowledge&nbsp;about the world, especially based on&nbsp;examining, testing, and&nbsp;proving&nbsp;facts</span></div>
+<div class=Example><span>Developments in&nbsp;<span class=""cloze"" data-cloze=""science"" data-ordinal=""1"">[...]</span> and technology;&nbsp;Chemistry,&nbsp;physics, and&nbsp;biology&nbsp;are all <span class=""cloze"" data-cloze=""sciences"" data-ordinal=""1"">[...]</span>.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""Physics: The Science of the Universe and Everything In It |  EnvironmentalScience.org"" src=""paste-3d0b193a09f5074abc2bb5b0736085e7b13a7776.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">science</span> is a knowledge&nbsp;about the world, especially based on&nbsp;examining, testing, and&nbsp;proving&nbsp;facts</span></div>
+<div class=Example><span>Developments in&nbsp;<span class=""cloze"" data-ordinal=""1"">science</span> and technology;&nbsp;Chemistry,&nbsp;physics, and&nbsp;biology&nbsp;are all <span class=""cloze"" data-ordinal=""1"">sciences</span>.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>'s<b>a</b>ɪəns</span></div>
+<div class=Russian><span>Наука</span></div>
+<div class=Sound><span>[sound:rec1690296356.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""Providing specialized support for partnerships | Lygature"" src=""images-b7ec5ddd9cf2ce7dc8a2ab7cb277febb800d79f2.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""provide"" data-ordinal=""1"">[...]</span> is to give something to someone or make it&nbsp;available&nbsp;to them, because they need it or want it; <span class=""cloze"" data-cloze=""provide"" data-ordinal=""1"">[...]</span> is&nbsp;to&nbsp;supply&nbsp;something to someone.</span></div>
+<div class=Example><span>The hotel&nbsp;<span class=""cloze"" data-cloze=""provides"" data-ordinal=""1"">[...]</span> a shoe-cleaning&nbsp;service&nbsp;for guests;&nbsp;This&nbsp;booklet&nbsp;<span class=""cloze"" data-cloze=""provides"" data-ordinal=""1"">[...]</span> useful&nbsp;information&nbsp;about&nbsp;local&nbsp;services.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""Providing specialized support for partnerships | Lygature"" src=""images-b7ec5ddd9cf2ce7dc8a2ab7cb277febb800d79f2.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">provide</span> is to give something to someone or make it&nbsp;available&nbsp;to them, because they need it or want it; <span class=""cloze"" data-ordinal=""1"">provide</span> is&nbsp;to&nbsp;supply&nbsp;something to someone.</span></div>
+<div class=Example><span>The hotel&nbsp;<span class=""cloze"" data-ordinal=""1"">provides</span> a shoe-cleaning&nbsp;service&nbsp;for guests;&nbsp;This&nbsp;booklet&nbsp;<span class=""cloze"" data-ordinal=""1"">provides</span> useful&nbsp;information&nbsp;about&nbsp;local&nbsp;services.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>prəˈv<b>a</b>ɪd</span></div>
+<div class=Russian><span>Предоставлять, обеспечивать</span></div>
+<div class=Sound><span>[sound:rec1690296412.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""How to Distinguish Yourself to Your Dream College - myKlovr"" src=""paste-bb0629009b2e624159f115590cd37da6f61b15d9.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""distinguish"" data-ordinal=""1"">[...]</span> is to&nbsp;recognize&nbsp;and&nbsp;understand&nbsp;the&nbsp;difference&nbsp;between two or more things or people</span></div>
+<div class=Example><span>Children must&nbsp;learn&nbsp;to&nbsp;<span class=""cloze"" data-cloze=""distinguish"" data-ordinal=""1"">[...]</span> between&nbsp;right&nbsp;and&nbsp;wrong;&nbsp;His&nbsp;great&nbsp;skill&nbsp;<span class=""cloze"" data-cloze=""distinguishes"" data-ordinal=""1"">[...]</span> him&nbsp;from&nbsp;the&nbsp;rest&nbsp;of the&nbsp;team.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""How to Distinguish Yourself to Your Dream College - myKlovr"" src=""paste-bb0629009b2e624159f115590cd37da6f61b15d9.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">distinguish</span> is to&nbsp;recognize&nbsp;and&nbsp;understand&nbsp;the&nbsp;difference&nbsp;between two or more things or people</span></div>
+<div class=Example><span>Children must&nbsp;learn&nbsp;to&nbsp;<span class=""cloze"" data-ordinal=""1"">distinguish</span> between&nbsp;right&nbsp;and&nbsp;wrong;&nbsp;His&nbsp;great&nbsp;skill&nbsp;<span class=""cloze"" data-ordinal=""1"">distinguishes</span> him&nbsp;from&nbsp;the&nbsp;rest&nbsp;of the&nbsp;team.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>dɪˈst<b>ɪ</b>ŋɡwɪʃ</span></div>
+<div class=Russian><span>Различать, выделять</span></div>
+<div class=Sound><span>[sound:rec1690296492.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""Students Perform At School Art Show 199925 Vector Art at Vecteezy"" src=""images-b82905afb51d8fd7c130865248526fb37ba63519.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""perform"" data-ordinal=""1"">[...]</span> is to&nbsp;entertain&nbsp;people&nbsp;by&nbsp;acting,&nbsp;singing,&nbsp;dancing, etc; <span class=""cloze"" data-cloze=""perform"" data-ordinal=""1"">[...]</span> is to do something, especially something difficult or&nbsp;useful&nbsp;</span></div>
+<div class=Example><span>The&nbsp;orchestra&nbsp;will <span class=""cloze"" data-cloze=""perform"" data-ordinal=""1"">[...]</span> music&nbsp;by Mozart;&nbsp;Computers can <span class=""cloze"" data-cloze=""perform"" data-ordinal=""1"">[...]</span> mathematical operations</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""Students Perform At School Art Show 199925 Vector Art at Vecteezy"" src=""images-b82905afb51d8fd7c130865248526fb37ba63519.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">perform</span> is to&nbsp;entertain&nbsp;people&nbsp;by&nbsp;acting,&nbsp;singing,&nbsp;dancing, etc; <span class=""cloze"" data-ordinal=""1"">perform</span> is to do something, especially something difficult or&nbsp;useful&nbsp;</span></div>
+<div class=Example><span>The&nbsp;orchestra&nbsp;will <span class=""cloze"" data-ordinal=""1"">perform</span> music&nbsp;by Mozart;&nbsp;Computers can <span class=""cloze"" data-ordinal=""1"">perform</span> mathematical operations</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>pərˈf<b>ɔː</b>rm</span></div>
+<div class=Russian><span>Исполнять</span></div>
+<div class=Sound><span>[sound:rec1690296526.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""Refer To Insert Symbol Used On Cosmetics Products Sign Displaying Hand  Pointing To Text In Open Book Meaning Read Instructions Stock Illustration  - Download Image Now - iStock"" src=""paste-410d30982bb16d9d5e2f6fc999b4687466aade7b.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""refer"" data-ordinal=""1"">[...]</span> is to&nbsp;read&nbsp;something in&nbsp;order&nbsp;to get&nbsp;information</span></div>
+<div class=Example><span>Please <span class=""cloze"" data-cloze=""refer"" data-ordinal=""1"">[...]</span> to&nbsp;your&nbsp;owner's&nbsp;manual&nbsp;for more&nbsp;information.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""Refer To Insert Symbol Used On Cosmetics Products Sign Displaying Hand  Pointing To Text In Open Book Meaning Read Instructions Stock Illustration  - Download Image Now - iStock"" src=""paste-410d30982bb16d9d5e2f6fc999b4687466aade7b.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">refer</span> is to&nbsp;read&nbsp;something in&nbsp;order&nbsp;to get&nbsp;information</span></div>
+<div class=Example><span>Please <span class=""cloze"" data-ordinal=""1"">refer</span> to&nbsp;your&nbsp;owner's&nbsp;manual&nbsp;for more&nbsp;information.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>rɪˈf<b>ɜː</b>r</span></div>
+<div class=Russian><span>Обращаться к чему-то, ссылаться на что-то</span></div>
+<div class=Sound><span>[sound:rec1690296589.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""Trump Declares a National Emergency, and Provokes a Constitutional Clash -  The New York Times"" src=""images-789d22afd6006f3fde6bd13b9f57cfd971191bd8.jpg""><img alt=""x - Wiktionary"" src=""paste-6eb453b659d35758d5518c6bbadc11e6d6f94ab7.png"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""declare"" data-ordinal=""1"">[...]</span> is to&nbsp;announce&nbsp;something&nbsp;publicly&nbsp;or&nbsp;officially</span></div>
+<div class=Example><span>to <span class=""cloze"" data-cloze=""declare"" data-ordinal=""1"">[...]</span> war;&nbsp;We tell JavaScript to create or&nbsp;<span class=""cloze"" data-cloze=""declare"" data-ordinal=""1"">[...]</span>&nbsp;a variable&nbsp;</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""Trump Declares a National Emergency, and Provokes a Constitutional Clash -  The New York Times"" src=""images-789d22afd6006f3fde6bd13b9f57cfd971191bd8.jpg""><img alt=""x - Wiktionary"" src=""paste-6eb453b659d35758d5518c6bbadc11e6d6f94ab7.png"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">declare</span> is to&nbsp;announce&nbsp;something&nbsp;publicly&nbsp;or&nbsp;officially</span></div>
+<div class=Example><span>to <span class=""cloze"" data-ordinal=""1"">declare</span> war;&nbsp;We tell JavaScript to create or&nbsp;<span class=""cloze"" data-ordinal=""1"">declare</span>&nbsp;a variable&nbsp;</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>dɪˈkl<b>e</b>r</span></div>
+<div class=Russian><span>Объявить, заявить</span></div>
+<div class=Sound><span>[sound:rec1690296855.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""Financial Statements Images - Free Download on Freepik"" src=""paste-d2172a0c34e3912be9867d1a9307c6c3601b439b.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""statement"" data-ordinal=""1"">[...]</span> is something that someone says or writes&nbsp;officially</span></div>
+<div class=Example><span>The&nbsp;prime&nbsp;minister&nbsp;is&nbsp;expected&nbsp;to&nbsp;make a <span class=""cloze"" data-cloze=""statement"" data-ordinal=""1"">[...]</span>&nbsp;later&nbsp;today.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""Financial Statements Images - Free Download on Freepik"" src=""paste-d2172a0c34e3912be9867d1a9307c6c3601b439b.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">statement</span> is something that someone says or writes&nbsp;officially</span></div>
+<div class=Example><span>The&nbsp;prime&nbsp;minister&nbsp;is&nbsp;expected&nbsp;to&nbsp;make a <span class=""cloze"" data-ordinal=""1"">statement</span>&nbsp;later&nbsp;today.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>ˈst<b>e</b>ɪtmənt</span></div>
+<div class=Russian><span>Заявление</span></div>
+<div class=Sound><span>[sound:rec1690296924.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""Assign - Free people icons"" src=""paste-4ba51ab9f457b024e1a69902afcd4ea6ee7e6646.png""><img alt=""agile teams should not use the word assign"" src=""paste-e9b678d6024d37e81a56fbe50110dd8e99bcd494.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""assign"" data-ordinal=""1"">[...]</span> is to give someone a particular job or make them&nbsp;responsible&nbsp;for a particular person or thing</span></div>
+<div class=Example><span>The&nbsp;case&nbsp;has been&nbsp;<span class=""cloze"" data-cloze=""assigned"" data-ordinal=""1"">[...]</span> to&nbsp;our&nbsp;most&nbsp;senior&nbsp;officer;&nbsp;<span class=""cloze"" data-cloze=""Assign"" data-ordinal=""1"">[...]</span> each student a partner</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""Assign - Free people icons"" src=""paste-4ba51ab9f457b024e1a69902afcd4ea6ee7e6646.png""><img alt=""agile teams should not use the word assign"" src=""paste-e9b678d6024d37e81a56fbe50110dd8e99bcd494.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">assign</span> is to give someone a particular job or make them&nbsp;responsible&nbsp;for a particular person or thing</span></div>
+<div class=Example><span>The&nbsp;case&nbsp;has been&nbsp;<span class=""cloze"" data-ordinal=""1"">assigned</span> to&nbsp;our&nbsp;most&nbsp;senior&nbsp;officer;&nbsp;<span class=""cloze"" data-ordinal=""1"">Assign</span> each student a partner</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>əˈs<b>a</b>ɪn</span></div>
+<div class=Russian><span>Назначить, поручать</span></div>
+<div class=Sound><span>[sound:rec1690296975.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""Перевод Appear. Appear - транскрипция, картинка, примеры"" src=""images-960e170d47f468d63eb66ad261ae6a77432830d8.jpg""><img alt=""Illustration Of Magic Genie Appear From Magic Lamp. Royalty Free SVG,  Cliparts, Vectors, And Stock Illustration. Image 18990083."" src=""paste-f3e670febd3ad8ce69b69c96671363ce97b1ca25.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""appear"" data-ordinal=""1"">[...]</span> is to&nbsp;start&nbsp;to be&nbsp;seen</span></div>
+<div class=Example><span>He&nbsp;suddenly&nbsp;<span class=""cloze"" data-cloze=""appeared"" data-ordinal=""1"">[...]</span> in the&nbsp;doorway;&nbsp;Then a&nbsp;bright&nbsp;light&nbsp;<span class=""cloze"" data-cloze=""appeared"" data-ordinal=""1"">[...]</span> in the&nbsp;sky;&nbsp;He didn't <span class=""cloze"" data-cloze=""appear"" data-ordinal=""1"">[...]</span> to me to be a violent man.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""Перевод Appear. Appear - транскрипция, картинка, примеры"" src=""images-960e170d47f468d63eb66ad261ae6a77432830d8.jpg""><img alt=""Illustration Of Magic Genie Appear From Magic Lamp. Royalty Free SVG,  Cliparts, Vectors, And Stock Illustration. Image 18990083."" src=""paste-f3e670febd3ad8ce69b69c96671363ce97b1ca25.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">appear</span> is to&nbsp;start&nbsp;to be&nbsp;seen</span></div>
+<div class=Example><span>He&nbsp;suddenly&nbsp;<span class=""cloze"" data-ordinal=""1"">appeared</span> in the&nbsp;doorway;&nbsp;Then a&nbsp;bright&nbsp;light&nbsp;<span class=""cloze"" data-ordinal=""1"">appeared</span> in the&nbsp;sky;&nbsp;He didn't <span class=""cloze"" data-ordinal=""1"">appear</span> to me to be a violent man.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>əˈp<b>ɪ</b>r</span></div>
+<div class=Russian><span>Появляться, казаться</span></div>
+<div class=Sound><span>[sound:rec1690297100.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""Commonly Confused Prepositions: Above, Over, Below &amp; Under – Ellii Blog"" src=""paste-cc2bb922f22dfe3f4d720467516173455bb37710.png"">
+<div class=Definition><span>&nbsp;<span class=""cloze"" data-cloze=""above"" data-ordinal=""1"">[...]</span> is in a higher position than something else; <span class=""cloze"" data-cloze=""above"" data-ordinal=""1"">[...]</span> is more than a particular number, amount, or level</span></div>
+<div class=Example><span>I heard a strange noise coming from the room <span class=""cloze"" data-cloze=""above"" data-ordinal=""1"">[...]</span>; It says on the&nbsp;box&nbsp;it's for&nbsp;children&nbsp;aged&nbsp;three and <span class=""cloze"" data-cloze=""above"" data-ordinal=""1"">[...]</span>.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""Commonly Confused Prepositions: Above, Over, Below &amp; Under – Ellii Blog"" src=""paste-cc2bb922f22dfe3f4d720467516173455bb37710.png"">
+<div class=Definition><span>&nbsp;<span class=""cloze"" data-ordinal=""1"">above</span> is in a higher position than something else; <span class=""cloze"" data-ordinal=""1"">above</span> is more than a particular number, amount, or level</span></div>
+<div class=Example><span>I heard a strange noise coming from the room <span class=""cloze"" data-ordinal=""1"">above</span>; It says on the&nbsp;box&nbsp;it's for&nbsp;children&nbsp;aged&nbsp;three and <span class=""cloze"" data-ordinal=""1"">above</span>.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>əˈb<b>ʌ</b>v</span></div>
+<div class=Russian><span>Над, наверху, выше</span></div>
+<div class=Sound><span>[sound:rec1690297134.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""What is Initialization?"" src=""paste-e88afd57e3742d13b8d464e683f8039a297876a6.jpg""><img alt=""How to Flash init_boot.img on Android - DroidWin"" src=""paste-2b3016e11b23087e5806d73dcc36a494c4681d74.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""initialize"" data-ordinal=""1"">[...]</span> is to make a&nbsp;computer program/something else ready&nbsp;to use</span></div>
+<div class=Example><span>If you <span class=""cloze"" data-cloze=""initialize"" data-ordinal=""1"">[...]</span> a&nbsp;disk&nbsp;or if a disk <span class=""cloze"" data-cloze=""initializes"" data-ordinal=""1"">[...]</span>, you&nbsp;divide&nbsp;it into parts so that it can&nbsp;store&nbsp;information</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""What is Initialization?"" src=""paste-e88afd57e3742d13b8d464e683f8039a297876a6.jpg""><img alt=""How to Flash init_boot.img on Android - DroidWin"" src=""paste-2b3016e11b23087e5806d73dcc36a494c4681d74.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">initialize</span> is to make a&nbsp;computer program/something else ready&nbsp;to use</span></div>
+<div class=Example><span>If you <span class=""cloze"" data-ordinal=""1"">initialize</span> a&nbsp;disk&nbsp;or if a disk <span class=""cloze"" data-ordinal=""1"">initializes</span>, you&nbsp;divide&nbsp;it into parts so that it can&nbsp;store&nbsp;information</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>ɪˈn<b>ɪ</b>ʃəlaɪz</span></div>
+<div class=Russian><span>Задавать начальные значения, определять параметры</span></div>
+<div class=Sound><span></span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""Define - Free art and design icons"" src=""paste-83b3fe26567b75e444ba123d04f01ec1688c2ca1.png""><img alt=""What is a Definition? - Unified Compliance"" src=""images-94325541cd007d3a15deb3c385696cff8eb12e84.png"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""define"" data-ordinal=""1"">[...]</span> is to say&nbsp;exactly&nbsp;what something&nbsp;means, or what someone or something is like</span></div>
+<div class=Example><span>I’ll now try to <span class=""cloze"" data-cloze=""define"" data-ordinal=""1"">[...]</span> the term ‘popular culture’;&nbsp;the ability to <span class=""cloze"" data-cloze=""define"" data-ordinal=""1"">[...]</span> clients needs</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""Define - Free art and design icons"" src=""paste-83b3fe26567b75e444ba123d04f01ec1688c2ca1.png""><img alt=""What is a Definition? - Unified Compliance"" src=""images-94325541cd007d3a15deb3c385696cff8eb12e84.png"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">define</span> is to say&nbsp;exactly&nbsp;what something&nbsp;means, or what someone or something is like</span></div>
+<div class=Example><span>I’ll now try to <span class=""cloze"" data-ordinal=""1"">define</span> the term ‘popular culture’;&nbsp;the ability to <span class=""cloze"" data-ordinal=""1"">define</span> clients needs</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>dɪˈf<b>a</b>ɪn</span></div>
+<div class=Russian><span>Давать определение, устанавливать</span></div>
+<div class=Sound><span>[sound:rec1690297178.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""Fossil of Previously Unknown Carnivorous Dinosaur Found in Egypt | Sci.News"" src=""images-f4e51acf9e4ebd63b6e443e23c76f8eddbe2f832.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""Previously"" data-ordinal=""1"">[...]</span> is before now or before a particular time</span></div>
+<div class=Example><span>Six months <span class=""cloze"" data-cloze=""previously"" data-ordinal=""1"">[...]</span> he had smashed up his car;&nbsp;He <span class=""cloze"" data-cloze=""previously"" data-ordinal=""1"">[...]</span>&nbsp;worked&nbsp;as a&nbsp;teacher.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""Fossil of Previously Unknown Carnivorous Dinosaur Found in Egypt | Sci.News"" src=""images-f4e51acf9e4ebd63b6e443e23c76f8eddbe2f832.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">Previously</span> is before now or before a particular time</span></div>
+<div class=Example><span>Six months <span class=""cloze"" data-ordinal=""1"">previously</span> he had smashed up his car;&nbsp;He <span class=""cloze"" data-ordinal=""1"">previously</span>&nbsp;worked&nbsp;as a&nbsp;teacher.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>ˈpr<b>iː</b>viəsli</span></div>
+<div class=Russian><span>Предыдущий, ранее, прежде</span></div>
+<div class=Sound><span>[sound:rec1690297750.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""How to use &quot;respectively&quot; respectfully"" src=""paste-8b497f6cc99fd0a7f2126ddcc7ed89f130f80add.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""respectively"" data-ordinal=""1"">[...]</span> is in the same&nbsp;order&nbsp;as the&nbsp;people&nbsp;or things you have just&nbsp;talked&nbsp;about</span></div>
+<div class=Example><span>Mr Ewing and Mr Campbell gave £2000 and £250 <span class=""cloze"" data-cloze=""respectively"" data-ordinal=""1"">[...]</span></span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""How to use &quot;respectively&quot; respectfully"" src=""paste-8b497f6cc99fd0a7f2126ddcc7ed89f130f80add.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">respectively</span> is in the same&nbsp;order&nbsp;as the&nbsp;people&nbsp;or things you have just&nbsp;talked&nbsp;about</span></div>
+<div class=Example><span>Mr Ewing and Mr Campbell gave £2000 and £250 <span class=""cloze"" data-ordinal=""1"">respectively</span></span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>rɪˈsp<b>e</b>ktɪvli</span></div>
+<div class=Russian><span>Соответственно&nbsp;</span></div>
+<div class=Sound><span>[sound:rec1690298100.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""The One Who Cries, The One Who Interrupts, and more Words for That Certain  Person | Merriam-Webster"" src=""images-6fa470f6b5607b744c94837299012fa76d3975fb.jpg""><img alt=""A guide to picking the right apple for the right recipe | Lifestyle |  gazette.com"" src=""paste-4c5926986745787ba924377efae86bc14ace09a1.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""certain"" data-ordinal=""1"">[...]</span> is completely&nbsp;sure&nbsp;of something, or&nbsp;knowing&nbsp;without&nbsp;doubt&nbsp;that something is&nbsp;true; OR <span class=""cloze"" data-cloze=""certain"" data-ordinal=""1"">[...]</span> used to talk about a particular person, thing, group of things without naming them</span></div>
+<div class=Example><span>If you are&nbsp;among&nbsp;<span class=""cloze"" data-cloze=""certain"" data-ordinal=""1"">[...]</span> things, they are all around you; OR I&nbsp;felt <span class=""cloze"" data-cloze=""certain"" data-ordinal=""1"">[...]</span>&nbsp;that I’d passed the test.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""The One Who Cries, The One Who Interrupts, and more Words for That Certain  Person | Merriam-Webster"" src=""images-6fa470f6b5607b744c94837299012fa76d3975fb.jpg""><img alt=""A guide to picking the right apple for the right recipe | Lifestyle |  gazette.com"" src=""paste-4c5926986745787ba924377efae86bc14ace09a1.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">certain</span> is completely&nbsp;sure&nbsp;of something, or&nbsp;knowing&nbsp;without&nbsp;doubt&nbsp;that something is&nbsp;true; OR <span class=""cloze"" data-ordinal=""1"">certain</span> used to talk about a particular person, thing, group of things without naming them</span></div>
+<div class=Example><span>If you are&nbsp;among&nbsp;<span class=""cloze"" data-ordinal=""1"">certain</span> things, they are all around you; OR I&nbsp;felt <span class=""cloze"" data-ordinal=""1"">certain</span>&nbsp;that I’d passed the test.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>s<b>ɜː</b>rtn</span></div>
+<div class=Russian><span>Определенный, некоторый, убежденный</span></div>
+<div class=Sound><span>[sound:rec1690307018.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""Organizational Chart - What is an Organization Chart? Definition, Types,  Tips, Tutorial, and Examples"" src=""paste-f2316d269e3063134ad58284d113b55d55db7ac4.png"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""chart"" data-ordinal=""1"">[...]</span> is a&nbsp;drawing&nbsp;that&nbsp;shows&nbsp;information&nbsp;in a&nbsp;simple&nbsp;way, often using&nbsp;lines&nbsp;and&nbsp;curves&nbsp;to show&nbsp;amounts</span></div>
+<div class=Example><span>a <span class=""cloze"" data-cloze=""chart"" data-ordinal=""1"">[...]</span> showing last year’s sales; the theatre’s seating <span class=""cloze"" data-cloze=""chart"" data-ordinal=""1"">[...]</span></span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""Organizational Chart - What is an Organization Chart? Definition, Types,  Tips, Tutorial, and Examples"" src=""paste-f2316d269e3063134ad58284d113b55d55db7ac4.png"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">chart</span> is a&nbsp;drawing&nbsp;that&nbsp;shows&nbsp;information&nbsp;in a&nbsp;simple&nbsp;way, often using&nbsp;lines&nbsp;and&nbsp;curves&nbsp;to show&nbsp;amounts</span></div>
+<div class=Example><span>a <span class=""cloze"" data-ordinal=""1"">chart</span> showing last year’s sales; the theatre’s seating <span class=""cloze"" data-ordinal=""1"">chart</span></span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>tʃ<b>ɑː</b>rt</span></div>
+<div class=Russian><span>Схема, план</span></div>
+<div class=Sound><span>[sound:rec1690307536.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""Improved Efficiency - Saraswati Engineering Limited- Manufcturer of Metal  Pallets, Steel Pallets, Bins &amp; Trolleys"" src=""paste-ba76b45b528ee1fb217bce0bb603a9c529913286.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""improve"" data-ordinal=""1"">[...]</span> is to get&nbsp;better&nbsp;or to make something&nbsp;better</span></div>
+<div class=Example><span>a course for students wishing to <span class=""cloze"" data-cloze=""improve"" data-ordinal=""1"">[...]</span> their English;&nbsp;The doctors say she is <span class=""cloze"" data-cloze=""improving"" data-ordinal=""1"">[...]</span> (after being ill)</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""Improved Efficiency - Saraswati Engineering Limited- Manufcturer of Metal  Pallets, Steel Pallets, Bins &amp; Trolleys"" src=""paste-ba76b45b528ee1fb217bce0bb603a9c529913286.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">improve</span> is to get&nbsp;better&nbsp;or to make something&nbsp;better</span></div>
+<div class=Example><span>a course for students wishing to <span class=""cloze"" data-ordinal=""1"">improve</span> their English;&nbsp;The doctors say she is <span class=""cloze"" data-ordinal=""1"">improving</span> (after being ill)</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>ɪmˈpr<b>uː</b>v</span></div>
+<div class=Russian><span>Улучшение</span></div>
+<div class=Sound><span>[sound:rec1690307724.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""Comprehend - Universal Language Hub"" src=""paste-987c7222d446e0ce4d9332a7c93a47728c31c414.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""comprehend"" data-ordinal=""1"">[...]</span> is to understand something that is&nbsp;complicated&nbsp;or difficult&nbsp;</span></div>
+<div class=Example><span>Finally, she <span class=""cloze"" data-cloze=""comprehended"" data-ordinal=""1"">[...]</span> that he wanted his pay;&nbsp;I was too&nbsp;young&nbsp;to <span class=""cloze"" data-cloze=""comprehend"" data-ordinal=""1"">[...]</span> what was&nbsp;happening.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""Comprehend - Universal Language Hub"" src=""paste-987c7222d446e0ce4d9332a7c93a47728c31c414.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">comprehend</span> is to understand something that is&nbsp;complicated&nbsp;or difficult&nbsp;</span></div>
+<div class=Example><span>Finally, she <span class=""cloze"" data-ordinal=""1"">comprehended</span> that he wanted his pay;&nbsp;I was too&nbsp;young&nbsp;to <span class=""cloze"" data-ordinal=""1"">comprehend</span> what was&nbsp;happening.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>ˌk<b>ɒ</b>mprɪˈh<b>e</b>nd</span></div>
+<div class=Russian><span>Понимать</span></div>
+<div class=Sound><span>[sound:rec1690308248.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""Red Ribbon Vector Art, Icons, and Graphics for Free Download"" src=""paste-f01482c64b351b3064a1d1e62640ffba31ac0a4e.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""ribbon"" data-ordinal=""1"">[...]</span> is a&nbsp;long,&nbsp;narrow&nbsp;piece&nbsp;of&nbsp;cloth&nbsp;that is used for&nbsp;tying&nbsp;things or used for&nbsp;decoration</span></div>
+<div class=Example><span>little girls with <span class=""cloze"" data-cloze=""ribbons"" data-ordinal=""1"">[...]</span> in their hair;&nbsp;The <span class=""cloze"" data-cloze=""ribbon"" data-ordinal=""1"">[...]</span> was cut and the new station was officially open.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""Red Ribbon Vector Art, Icons, and Graphics for Free Download"" src=""paste-f01482c64b351b3064a1d1e62640ffba31ac0a4e.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">ribbon</span> is a&nbsp;long,&nbsp;narrow&nbsp;piece&nbsp;of&nbsp;cloth&nbsp;that is used for&nbsp;tying&nbsp;things or used for&nbsp;decoration</span></div>
+<div class=Example><span>little girls with <span class=""cloze"" data-ordinal=""1"">ribbons</span> in their hair;&nbsp;The <span class=""cloze"" data-ordinal=""1"">ribbon</span> was cut and the new station was officially open.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>ˈr<b>ɪ</b>bən</span></div>
+<div class=Russian><span>Лента</span></div>
+<div class=Sound><span>[sound:rec1690308617.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""Behave Images – Browse 84,128 Stock Photos, Vectors, and Video | Adobe Stock"" src=""paste-cd1e918c1881063c89f9765906709c8724ab2c5f.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""behave"" data-ordinal=""1"">[...]</span> is to be&nbsp;polite&nbsp;and not make a&nbsp;situation&nbsp;difficult</span></div>
+<div class=Example><span>He was a little boy, but he <span class=""cloze"" data-cloze=""behaved"" data-ordinal=""1"">[...]</span> as if he was an adult;&nbsp;They are <span class=""cloze"" data-cloze=""behaving"" data-ordinal=""1"">[...]</span> like&nbsp;children.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""Behave Images – Browse 84,128 Stock Photos, Vectors, and Video | Adobe Stock"" src=""paste-cd1e918c1881063c89f9765906709c8724ab2c5f.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">behave</span> is to be&nbsp;polite&nbsp;and not make a&nbsp;situation&nbsp;difficult</span></div>
+<div class=Example><span>He was a little boy, but he <span class=""cloze"" data-ordinal=""1"">behaved</span> as if he was an adult;&nbsp;They are <span class=""cloze"" data-ordinal=""1"">behaving</span> like&nbsp;children.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span><span style=""color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"">bɪˈh<b>e</b>ɪv</span></span></div>
+<div class=Russian><span>Вести себя, хорошее поведение</span></div>
+<div class=Sound><span>[sound:rec1690369079.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""instead meaning and definition"" src=""paste-f0ac708c00353ba3ebdfd03a68450e6edbf1ce96.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""instead"" data-ordinal=""1"">[...]</span> is in the&nbsp;place&nbsp;of someone or something&nbsp;else</span></div>
+<div class=Example><span>If you don't&nbsp;want&nbsp;pizza, we can have&nbsp;pasta&nbsp;<span class=""cloze"" data-cloze=""instead"" data-ordinal=""1"">[...]</span>;&nbsp;Geoff didn’t study law. <span class=""cloze"" data-cloze=""Instead"" data-ordinal=""1"">[...]</span>, he decided to become an actor.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""instead meaning and definition"" src=""paste-f0ac708c00353ba3ebdfd03a68450e6edbf1ce96.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">instead</span> is in the&nbsp;place&nbsp;of someone or something&nbsp;else</span></div>
+<div class=Example><span>If you don't&nbsp;want&nbsp;pizza, we can have&nbsp;pasta&nbsp;<span class=""cloze"" data-ordinal=""1"">instead</span>;&nbsp;Geoff didn’t study law. <span class=""cloze"" data-ordinal=""1"">Instead</span>, he decided to become an actor.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>ɪnˈst<b>e</b>d</span></div>
+<div class=Russian><span>Вместо</span></div>
+<div class=Sound><span>[sound:rec1690369309.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""1,000+ Free Report &amp; Business Images - Pixabay"" src=""images-0dd67e3a1fd19f19ccd0206f99df13d1747c2d8e.jpg""><img alt=""Newspaper Reports - Bundle - 4 RESOURCES!! | Teaching Resources"" src=""paste-88d8505f6e47a5f6e9a07bd536c9076b179bb85e.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""report"" data-ordinal=""1"">[...]</span> is a written or spoken&nbsp;description&nbsp;of a situation or event, giving people the information they need; OR <span class=""cloze"" data-cloze=""report"" data-ordinal=""1"">[...]</span> is a piece of writing in a newspaper about something that is happening</span></div>
+<div class=Example><span>a&nbsp;police&nbsp;<span class=""cloze"" data-cloze=""report"" data-ordinal=""1"">[...]</span>;&nbsp;a <span class=""cloze"" data-cloze=""report"" data-ordinal=""1"">[...]</span> that he had been killed</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""1,000+ Free Report &amp; Business Images - Pixabay"" src=""images-0dd67e3a1fd19f19ccd0206f99df13d1747c2d8e.jpg""><img alt=""Newspaper Reports - Bundle - 4 RESOURCES!! | Teaching Resources"" src=""paste-88d8505f6e47a5f6e9a07bd536c9076b179bb85e.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">report</span> is a written or spoken&nbsp;description&nbsp;of a situation or event, giving people the information they need; OR <span class=""cloze"" data-ordinal=""1"">report</span> is a piece of writing in a newspaper about something that is happening</span></div>
+<div class=Example><span>a&nbsp;police&nbsp;<span class=""cloze"" data-ordinal=""1"">report</span>;&nbsp;a <span class=""cloze"" data-ordinal=""1"">report</span> that he had been killed</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>rɪˈp<b>ɔː</b>rt</span></div>
+<div class=Russian><span>Отчет, доклад</span></div>
+<div class=Sound><span>[sound:rec1690369562.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""Problem Solving Skills: How to Solve Big Problems"" src=""paste-368517c45ece6d4d67fac93788726df12be132dc.jpg""><img alt=""How to Solve any problem logically - Chintan Jain"" src=""paste-a8b556837db0e5ebe9a918a7b244f73c803f30e9.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""solve"" data-ordinal=""1"">[...]</span> is to find or provide a way of&nbsp;dealing&nbsp;with a problem; <span class=""cloze"" data-cloze=""solve"" data-ordinal=""1"">[...]</span> is to find the&nbsp;correct&nbsp;answer&nbsp;to a problem or the&nbsp;explanation&nbsp;for something that is&nbsp;difficult&nbsp;to&nbsp;understand&nbsp;</span></div>
+<div class=Example><span>Charlie thinks money will <span class=""cloze"" data-cloze=""solve"" data-ordinal=""1"">[...]</span> all his problems;&nbsp;the best way of <span class=""cloze"" data-cloze=""solving"" data-ordinal=""1"">[...]</span> our dilemma</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""Problem Solving Skills: How to Solve Big Problems"" src=""paste-368517c45ece6d4d67fac93788726df12be132dc.jpg""><img alt=""How to Solve any problem logically - Chintan Jain"" src=""paste-a8b556837db0e5ebe9a918a7b244f73c803f30e9.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">solve</span> is to find or provide a way of&nbsp;dealing&nbsp;with a problem; <span class=""cloze"" data-ordinal=""1"">solve</span> is to find the&nbsp;correct&nbsp;answer&nbsp;to a problem or the&nbsp;explanation&nbsp;for something that is&nbsp;difficult&nbsp;to&nbsp;understand&nbsp;</span></div>
+<div class=Example><span>Charlie thinks money will <span class=""cloze"" data-ordinal=""1"">solve</span> all his problems;&nbsp;the best way of <span class=""cloze"" data-ordinal=""1"">solving</span> our dilemma</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>s<b>ɑː</b>lv</span></div>
+<div class=Russian><span>Решать, находить решение</span></div>
+<div class=Sound><span>[sound:rec1690369810.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""English Lesson: &quot;I'm expecting something to come in today or tomorrow.&quot; |  PhraseMix.com"" src=""paste-40def4e96d20c17a916337d46702847c02a67fbc.jpg""><img alt=""Отличия в значении и употреблении глаголов to expect, to hope, to wait ‹  Инглекс"" src=""paste-1daccbf5a56f79712a4ec51d77036e8b9cf7967c.png"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""expect"" data-ordinal=""1"">[...]</span> is to&nbsp;think&nbsp;that something will&nbsp;happen; <span class=""cloze"" data-cloze=""expect"" data-ordinal=""1"">[...]</span> is to think that something will happen because it seems&nbsp;likely&nbsp;or has been planned</span></div>
+<div class=Example><span>I <span class=""cloze"" data-cloze=""expect"" data-ordinal=""1"">[...]</span> that she'll be very&nbsp;angry&nbsp;about this;&nbsp;The company <span class=""cloze"" data-cloze=""expects"" data-ordinal=""1"">[...]</span> to complete work in April.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""English Lesson: &quot;I'm expecting something to come in today or tomorrow.&quot; |  PhraseMix.com"" src=""paste-40def4e96d20c17a916337d46702847c02a67fbc.jpg""><img alt=""Отличия в значении и употреблении глаголов to expect, to hope, to wait ‹  Инглекс"" src=""paste-1daccbf5a56f79712a4ec51d77036e8b9cf7967c.png"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">expect</span> is to&nbsp;think&nbsp;that something will&nbsp;happen; <span class=""cloze"" data-ordinal=""1"">expect</span> is to think that something will happen because it seems&nbsp;likely&nbsp;or has been planned</span></div>
+<div class=Example><span>I <span class=""cloze"" data-ordinal=""1"">expect</span> that she'll be very&nbsp;angry&nbsp;about this;&nbsp;The company <span class=""cloze"" data-ordinal=""1"">expects</span> to complete work in April.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>ɪkˈsp<b>e</b>kt</span></div>
+<div class=Russian><span>Ожидать</span></div>
+<div class=Sound><span>[sound:rec1690370040.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""영어 동사 - suppose : 네이버 블로그"" src=""paste-f17a94ece28e4e3fcf2974ac8569421c564a071f.jpg""><img alt=""Woman Character Has Good Idea And Speech Bubble Stock Illustration -  Download Image Now - Speech, Contemplation, Adult - iStock"" src=""images-050c213548f12f57e2e40482aa37c30a2e8e8ae1.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""suppose"" data-ordinal=""1"">[...]</span> is to think that something is probably true,&nbsp;based&nbsp;on what you know; OR&nbsp;If you are <span class=""cloze"" data-cloze=""supposed"" data-ordinal=""1"">[...]</span> to do something, the&nbsp;rules&nbsp;say that you should do it.</span></div>
+<div class=Example><span>He was <span class=""cloze"" data-cloze=""supposed"" data-ordinal=""1"">[...]</span> to be here by nine;&nbsp;I&nbsp;<span class=""cloze"" data-cloze=""suppose"" data-ordinal=""1"">[...]</span>&nbsp;I should go home now.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""영어 동사 - suppose : 네이버 블로그"" src=""paste-f17a94ece28e4e3fcf2974ac8569421c564a071f.jpg""><img alt=""Woman Character Has Good Idea And Speech Bubble Stock Illustration -  Download Image Now - Speech, Contemplation, Adult - iStock"" src=""images-050c213548f12f57e2e40482aa37c30a2e8e8ae1.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">suppose</span> is to think that something is probably true,&nbsp;based&nbsp;on what you know; OR&nbsp;If you are <span class=""cloze"" data-ordinal=""1"">supposed</span> to do something, the&nbsp;rules&nbsp;say that you should do it.</span></div>
+<div class=Example><span>He was <span class=""cloze"" data-ordinal=""1"">supposed</span> to be here by nine;&nbsp;I&nbsp;<span class=""cloze"" data-ordinal=""1"">suppose</span>&nbsp;I should go home now.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>səˈp<b>oʊ</b>z</span></div>
+<div class=Russian><span>Предполагать, быть обязанным что-то сделать</span></div>
+<div class=Sound><span>[sound:rec1690370288.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""Window Bay View – beautiful print on canvas – Photowall"" src=""paste-e5ac4d214acadfa8a1b05bf637031ee6f6396bf8.jpg""><img alt=""About Full Display Mirror | Full Display Mirror"" src=""paste-0589df29ed23390a097eed222b1434aff90be269.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""view"" data-ordinal=""1"">[...]</span> is your&nbsp;opinion; OR <span class=""cloze"" data-cloze=""view"" data-ordinal=""1"">[...]</span> is the things that you can&nbsp;see&nbsp;from a&nbsp;place</span></div>
+<div class=Example><span>a realistic <span class=""cloze"" data-cloze=""view"" data-ordinal=""1"">[...]</span> of human nature;&nbsp;In my <span class=""cloze"" data-cloze=""view"" data-ordinal=""1"">[...]</span>, the country needs a change of government.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""Window Bay View – beautiful print on canvas – Photowall"" src=""paste-e5ac4d214acadfa8a1b05bf637031ee6f6396bf8.jpg""><img alt=""About Full Display Mirror | Full Display Mirror"" src=""paste-0589df29ed23390a097eed222b1434aff90be269.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">view</span> is your&nbsp;opinion; OR <span class=""cloze"" data-ordinal=""1"">view</span> is the things that you can&nbsp;see&nbsp;from a&nbsp;place</span></div>
+<div class=Example><span>a realistic <span class=""cloze"" data-ordinal=""1"">view</span> of human nature;&nbsp;In my <span class=""cloze"" data-ordinal=""1"">view</span>, the country needs a change of government.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>vj<b>uː</b></span></div>
+<div class=Russian><span>Мнение, взгляд, вид, рассматривать</span></div>
+<div class=Sound><span>[sound:rec1690370772.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""Make WordPress Search…Exact! – tinyGod"" src=""paste-6072412d605882e528ba0391b8b6cfa85c49b7ca.jpg""><img alt=""59,128 Exact Images, Stock Photos &amp; Vectors | Shutterstock"" src=""paste-65c80e176d118c07158120cc0f9c638d5ad17cce.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""exact"" data-ordinal=""1"">[...]</span> is completely&nbsp;correct&nbsp;in every&nbsp;detail</span></div>
+<div class=Example><span>I'm&nbsp;afraid&nbsp;I can't give you the <span class=""cloze"" data-cloze=""exact"" data-ordinal=""1"">[...]</span>&nbsp;details&nbsp;of the show&nbsp;yet;&nbsp;Police are still investigating the <span class=""cloze"" data-cloze=""exact"" data-ordinal=""1"">[...]</span> cause of the accident.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""Make WordPress Search…Exact! – tinyGod"" src=""paste-6072412d605882e528ba0391b8b6cfa85c49b7ca.jpg""><img alt=""59,128 Exact Images, Stock Photos &amp; Vectors | Shutterstock"" src=""paste-65c80e176d118c07158120cc0f9c638d5ad17cce.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">exact</span> is completely&nbsp;correct&nbsp;in every&nbsp;detail</span></div>
+<div class=Example><span>I'm&nbsp;afraid&nbsp;I can't give you the <span class=""cloze"" data-ordinal=""1"">exact</span>&nbsp;details&nbsp;of the show&nbsp;yet;&nbsp;Police are still investigating the <span class=""cloze"" data-ordinal=""1"">exact</span> cause of the accident.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>ɪɡˈz<b>æ</b>kt</span></div>
+<div class=Russian><span>Точный, точность</span></div>
+<div class=Sound><span>[sound:rec1690371038.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""475,603 Pull Images, Stock Photos &amp; Vectors | Shutterstock"" src=""paste-75ead545d6460ed5e5def760f032978b4e3907c8.jpg""><img alt=""475,603 Pull Images, Stock Photos &amp; Vectors | Shutterstock"" src=""paste-7eae88878450a55315d0df1f3be4f16e46f5b8b7.png"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""pull"" data-ordinal=""1"">[...]</span> is to use your hands to make something or someone move towards you or in the&nbsp;direction&nbsp;that your hands are moving&nbsp;</span></div>
+<div class=Example><span>Mom! Davey’s <span class=""cloze"" data-cloze=""pulling"" data-ordinal=""1"">[...]</span> my hair;&nbsp;She&nbsp;bent&nbsp;down and&nbsp;<span class=""cloze"" data-cloze=""pulled"" data-ordinal=""1"">[...]</span> up&nbsp;her&nbsp;socks.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""475,603 Pull Images, Stock Photos &amp; Vectors | Shutterstock"" src=""paste-75ead545d6460ed5e5def760f032978b4e3907c8.jpg""><img alt=""475,603 Pull Images, Stock Photos &amp; Vectors | Shutterstock"" src=""paste-7eae88878450a55315d0df1f3be4f16e46f5b8b7.png"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">pull</span> is to use your hands to make something or someone move towards you or in the&nbsp;direction&nbsp;that your hands are moving&nbsp;</span></div>
+<div class=Example><span>Mom! Davey’s <span class=""cloze"" data-ordinal=""1"">pulling</span> my hair;&nbsp;She&nbsp;bent&nbsp;down and&nbsp;<span class=""cloze"" data-ordinal=""1"">pulled</span> up&nbsp;her&nbsp;socks.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>pʊl</span></div>
+<div class=Russian><span>Тянуть, тащить</span></div>
+<div class=Sound><span>[sound:rec1690371698.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""Roof Images – Browse 3,166,324 Stock Photos, Vectors, and Video | Adobe  Stock"" src=""paste-3c707a9851958bc5d687c31659b991a959433898.jpg""><img alt=""Corridor Under The Roof Of The Tunnel. Stock Photo, Picture And Royalty  Free Image. Image 93701291."" src=""paste-30516de7608e0a0862f45aed9f83ae103f8d662c.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""roof"" data-ordinal=""1"">[...]</span> is the&nbsp;structure&nbsp;that covers or forms the top of a building, tent&nbsp;etc</span></div>
+<div class=Example><span>They finally found the cat up on the <span class=""cloze"" data-cloze=""roof"" data-ordinal=""1"">[...]</span>;&nbsp;Suddenly, the whole tunnel <span class=""cloze"" data-cloze=""roof"" data-ordinal=""1"">[...]</span> caved in.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""Roof Images – Browse 3,166,324 Stock Photos, Vectors, and Video | Adobe  Stock"" src=""paste-3c707a9851958bc5d687c31659b991a959433898.jpg""><img alt=""Corridor Under The Roof Of The Tunnel. Stock Photo, Picture And Royalty  Free Image. Image 93701291."" src=""paste-30516de7608e0a0862f45aed9f83ae103f8d662c.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">roof</span> is the&nbsp;structure&nbsp;that covers or forms the top of a building, tent&nbsp;etc</span></div>
+<div class=Example><span>They finally found the cat up on the <span class=""cloze"" data-ordinal=""1"">roof</span>;&nbsp;Suddenly, the whole tunnel <span class=""cloze"" data-ordinal=""1"">roof</span> caved in.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>r<b>ʊ</b>f</span></div>
+<div class=Russian><span>Крыша</span></div>
+<div class=Sound><span>[sound:rec1690371982.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""Road Trip Cartoon Images - Free Download on Freepik"" src=""paste-adb1b5c801cb41d6f67392fc06283f8f3b4a118f.jpg""><img alt=""Welcome Back To Road Trip Season"" src=""paste-0cf1ae15a2f15cb70e14a3d1d0deae56b86a5a1c.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""trip"" data-ordinal=""1"">[...]</span> is a&nbsp;journey&nbsp;in which you&nbsp;visit&nbsp;a&nbsp;place&nbsp;for a&nbsp;short&nbsp;time&nbsp;and come back again</span></div>
+<div class=Example><span>a&nbsp;day&nbsp;<span class=""cloze"" data-cloze=""trip"" data-ordinal=""1"">[...]</span>&nbsp;to Paris;&nbsp;We might&nbsp;take a <span class=""cloze"" data-cloze=""trip"" data-ordinal=""1"">[...]</span> to&nbsp;Spain&nbsp;later&nbsp;in the&nbsp;summer.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""Road Trip Cartoon Images - Free Download on Freepik"" src=""paste-adb1b5c801cb41d6f67392fc06283f8f3b4a118f.jpg""><img alt=""Welcome Back To Road Trip Season"" src=""paste-0cf1ae15a2f15cb70e14a3d1d0deae56b86a5a1c.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">trip</span> is a&nbsp;journey&nbsp;in which you&nbsp;visit&nbsp;a&nbsp;place&nbsp;for a&nbsp;short&nbsp;time&nbsp;and come back again</span></div>
+<div class=Example><span>a&nbsp;day&nbsp;<span class=""cloze"" data-ordinal=""1"">trip</span>&nbsp;to Paris;&nbsp;We might&nbsp;take a <span class=""cloze"" data-ordinal=""1"">trip</span> to&nbsp;Spain&nbsp;later&nbsp;in the&nbsp;summer.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>tr<b>ɪ</b>p</span></div>
+<div class=Russian><span>Поездка, путешествие</span></div>
+<div class=Sound><span>[sound:rec1690372795.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""Is it OK to renege on an offer letter?"" src=""images-f2de1b989b4971121a6e00b6cc6edeb28f77802f.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""offer"" data-ordinal=""1"">[...]</span> is to ask someone if they would like to have something, or to hold something out to them so that they can take it</span></div>
+<div class=Example><span>Can I <span class=""cloze"" data-cloze=""offer"" data-ordinal=""1"">[...]</span> you&nbsp;something to drink?&nbsp;They <span class=""cloze"" data-cloze=""offered"" data-ordinal=""1"">[...]</span> him a very good job, but he turned it down.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""Is it OK to renege on an offer letter?"" src=""images-f2de1b989b4971121a6e00b6cc6edeb28f77802f.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">offer</span> is to ask someone if they would like to have something, or to hold something out to them so that they can take it</span></div>
+<div class=Example><span>Can I <span class=""cloze"" data-ordinal=""1"">offer</span> you&nbsp;something to drink?&nbsp;They <span class=""cloze"" data-ordinal=""1"">offered</span> him a very good job, but he turned it down.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>ˈ<b>ɒː</b>fər</span></div>
+<div class=Russian><span>Предлагать</span></div>
+<div class=Sound><span>[sound:rec1690441771.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""Manager hand selection employee appropriate Vector Image"" src=""paste-7892f48ed6ba52480fec9303f6a3f8e02c54d92c.png""><img alt=""Girls With Different Appropriate And Inappropriate Attires Royalty Free  SVG, Cliparts, Vectors, And Stock Illustration. Image 35983378."" src=""paste-74998ed35f13039f2e083a9f68cd62a4338cca1a.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""appropriate"" data-ordinal=""1"">[...]</span> is correct&nbsp;or&nbsp;suitable&nbsp;for a particular time, situation, or&nbsp;purpose</span></div>
+<div class=Example><span>clothes <span class=""cloze"" data-cloze=""appropriate"" data-ordinal=""1"">[...]</span> for a job interview;&nbsp;Is this&nbsp;film&nbsp;<span class=""cloze-inactive"" data-ordinal=""2"">appropriate</span> for&nbsp;young&nbsp;children?</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""Manager hand selection employee appropriate Vector Image"" src=""paste-7892f48ed6ba52480fec9303f6a3f8e02c54d92c.png""><img alt=""Girls With Different Appropriate And Inappropriate Attires Royalty Free  SVG, Cliparts, Vectors, And Stock Illustration. Image 35983378."" src=""paste-74998ed35f13039f2e083a9f68cd62a4338cca1a.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">appropriate</span> is correct&nbsp;or&nbsp;suitable&nbsp;for a particular time, situation, or&nbsp;purpose</span></div>
+<div class=Example><span>clothes <span class=""cloze"" data-ordinal=""1"">appropriate</span> for a job interview;&nbsp;Is this&nbsp;film&nbsp;<span class=""cloze-inactive"" data-ordinal=""2"">appropriate</span> for&nbsp;young&nbsp;children?</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>əˈpr<b>əʊ</b>priət</span></div>
+<div class=Russian><span>Подходящий, соответствующий</span></div>
+<div class=Sound><span>[sound:rec1690442970.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""Manager hand selection employee appropriate Vector Image"" src=""paste-7892f48ed6ba52480fec9303f6a3f8e02c54d92c.png""><img alt=""Girls With Different Appropriate And Inappropriate Attires Royalty Free  SVG, Cliparts, Vectors, And Stock Illustration. Image 35983378."" src=""paste-74998ed35f13039f2e083a9f68cd62a4338cca1a.jpg"">
+<div class=Definition><span></span></div>
+<div class=Example><span>clothes <span class=""cloze-inactive"" data-ordinal=""1"">appropriate</span> for a job interview;&nbsp;Is this&nbsp;film&nbsp;<span class=""cloze"" data-cloze=""appropriate"" data-ordinal=""2"">[...]</span> for&nbsp;young&nbsp;children?</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""Manager hand selection employee appropriate Vector Image"" src=""paste-7892f48ed6ba52480fec9303f6a3f8e02c54d92c.png""><img alt=""Girls With Different Appropriate And Inappropriate Attires Royalty Free  SVG, Cliparts, Vectors, And Stock Illustration. Image 35983378."" src=""paste-74998ed35f13039f2e083a9f68cd62a4338cca1a.jpg"">
+<div class=Definition><span></span></div>
+<div class=Example><span>clothes <span class=""cloze-inactive"" data-ordinal=""1"">appropriate</span> for a job interview;&nbsp;Is this&nbsp;film&nbsp;<span class=""cloze"" data-ordinal=""2"">appropriate</span> for&nbsp;young&nbsp;children?</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>əˈpr<b>əʊ</b>priət</span></div>
+<div class=Russian><span>Подходящий, соответствующий</span></div>
+<div class=Sound><span>[sound:rec1690442970.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""Clases particulares - Encuentra profesor particular"" src=""https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_X9O9uGgldEKyP64Z1cwHX2U0Hnu49R8oSQ&amp;usqp=CAU""><img alt=""Crowd People Particular Person Tsernte That Stock Vector (Royalty Free)  311756186 | Shutterstock"" src=""images-0659a15e61e742f66b160fd6670a2a5f1ae322d0.png"">
+<div class=Definition><span>a <span class=""cloze"" data-cloze=""particular"" data-ordinal=""1"">[...]</span> thing or person is the one that you are talking about, and not any other&nbsp;</span></div>
+<div class=Example><span>Is there any <span class=""cloze"" data-cloze=""particular"" data-ordinal=""1"">[...]</span>&nbsp;restaurant&nbsp;you'd like to go to? A <span class=""cloze"" data-cloze=""particular"" data-ordinal=""1"">[...]</span> type of food;&nbsp;For&nbsp;no <span class=""cloze"" data-cloze=""particular"" data-ordinal=""1"">[...]</span> reason, he quit the job</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""Clases particulares - Encuentra profesor particular"" src=""https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_X9O9uGgldEKyP64Z1cwHX2U0Hnu49R8oSQ&amp;usqp=CAU""><img alt=""Crowd People Particular Person Tsernte That Stock Vector (Royalty Free)  311756186 | Shutterstock"" src=""images-0659a15e61e742f66b160fd6670a2a5f1ae322d0.png"">
+<div class=Definition><span>a <span class=""cloze"" data-ordinal=""1"">particular</span> thing or person is the one that you are talking about, and not any other&nbsp;</span></div>
+<div class=Example><span>Is there any <span class=""cloze"" data-ordinal=""1"">particular</span>&nbsp;restaurant&nbsp;you'd like to go to? A <span class=""cloze"" data-ordinal=""1"">particular</span> type of food;&nbsp;For&nbsp;no <span class=""cloze"" data-ordinal=""1"">particular</span> reason, he quit the job</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>pərˈt<b>ɪ</b>kjələr</span></div>
+<div class=Russian><span>Конкретный, особенный</span></div>
+<div class=Sound><span>[sound:rec1690443193.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""6 new and easy ways to calm the mind | The Art of Living India"" src=""paste-138a5226bdfc8053a7f07d50d81097e3e9817f9d.jpg""><img alt=""21 Easy Ways to Create a Calm Mind (Without Meditating)"" src=""paste-2e18bb71c38dfd7d8af4dba408b8081fc82323a7.jpg"">
+<div class=Definition><span>&nbsp;<span class=""cloze"" data-cloze=""calm"" data-ordinal=""1"">[...]</span> is relaxed&nbsp;and&nbsp;quiet, not&nbsp;angry,&nbsp;nervous, or&nbsp;upset</span></div>
+<div class=Example><span>I tried to stay <span class=""cloze"" data-cloze=""calm"" data-ordinal=""1"">[...]</span> and just ignore him;&nbsp;Try to&nbsp;stay&nbsp;<span class=""cloze"" data-cloze=""calm"" data-ordinal=""1"">[...]</span>&nbsp;- the&nbsp;doctor&nbsp;will be here&nbsp;soon.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""6 new and easy ways to calm the mind | The Art of Living India"" src=""paste-138a5226bdfc8053a7f07d50d81097e3e9817f9d.jpg""><img alt=""21 Easy Ways to Create a Calm Mind (Without Meditating)"" src=""paste-2e18bb71c38dfd7d8af4dba408b8081fc82323a7.jpg"">
+<div class=Definition><span>&nbsp;<span class=""cloze"" data-ordinal=""1"">calm</span> is relaxed&nbsp;and&nbsp;quiet, not&nbsp;angry,&nbsp;nervous, or&nbsp;upset</span></div>
+<div class=Example><span>I tried to stay <span class=""cloze"" data-ordinal=""1"">calm</span> and just ignore him;&nbsp;Try to&nbsp;stay&nbsp;<span class=""cloze"" data-ordinal=""1"">calm</span>&nbsp;- the&nbsp;doctor&nbsp;will be here&nbsp;soon.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>k<b>ɑː</b>m</span></div>
+<div class=Russian><span>Спокойный</span></div>
+<div class=Sound><span>[sound:rec1690443539.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""Concern - Discord Emoji"" src=""paste-a76a7fc36981226c820d1ccb9d3ee7efc0cf9fec.png""><img alt=""Concern Special Lineal color icon"" src=""paste-320aedcc7a9e0f394ef2518849d83f5abc70bb19.png"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""concern"" data-ordinal=""1"">[...]</span> is a feeling of&nbsp;worry&nbsp;about something important</span></div>
+<div class=Example><span>I was filled with&nbsp;<span class=""cloze"" data-cloze=""concern"" data-ordinal=""1"">[...]</span>&nbsp;after reading the newspaper.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""Concern - Discord Emoji"" src=""paste-a76a7fc36981226c820d1ccb9d3ee7efc0cf9fec.png""><img alt=""Concern Special Lineal color icon"" src=""paste-320aedcc7a9e0f394ef2518849d83f5abc70bb19.png"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">concern</span> is a feeling of&nbsp;worry&nbsp;about something important</span></div>
+<div class=Example><span>I was filled with&nbsp;<span class=""cloze"" data-ordinal=""1"">concern</span>&nbsp;after reading the newspaper.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>kənˈs<b>ɜː</b>rn</span></div>
+<div class=Russian><span>Беспокойство, волнение</span></div>
+<div class=Sound><span>[sound:rec1690443685.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img src=""23150.jpg""><img alt=""What to expect in pregnancy: Early signs, stages, healthcare, and tips"" src=""images-0043c50d6020f9fdd25ca13588c65f47de2a3136.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""expect"" data-ordinal=""1"">[...]</span> is to think that something will happen because it seems&nbsp;likely&nbsp;or has been planned</span></div>
+<div class=Example><span>The company <span class=""cloze"" data-cloze=""expects"" data-ordinal=""1"">[...]</span> to complete work in April;&nbsp;I&nbsp;<span class=""cloze"" data-cloze=""expect"" data-ordinal=""1"">[...]</span>&nbsp;the bus to be here very soon.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img src=""23150.jpg""><img alt=""What to expect in pregnancy: Early signs, stages, healthcare, and tips"" src=""images-0043c50d6020f9fdd25ca13588c65f47de2a3136.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">expect</span> is to think that something will happen because it seems&nbsp;likely&nbsp;or has been planned</span></div>
+<div class=Example><span>The company <span class=""cloze"" data-ordinal=""1"">expects</span> to complete work in April;&nbsp;I&nbsp;<span class=""cloze"" data-ordinal=""1"">expect</span>&nbsp;the bus to be here very soon.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>ɪkˈsp<b>e</b>kt</span></div>
+<div class=Russian><span>Ожидать, ждать прибытия</span></div>
+<div class=Sound><span>[sound:rec1690443920.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""How Often Should I Get Acupuncture - Economics Circle Icon - Free  Transparent PNG Clipart Images Download"" src=""images-47900cc7c9cf73a78fbb9e4d9eeb5ae9bcaf7ed0.png""><img alt=""Often meaning in Telugu - Often యొక్క తెలుగు అర్ధం | Multibhashi"" src=""images-bcf718d9258d97f6ce17e0949a092fee94ce3ca6.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""frequently"" data-ordinal=""1"">[...]</span> is like very often or many times</span></div>
+<div class=Example><span>We meet&nbsp;<span class=""cloze"" data-cloze=""frequently"" data-ordinal=""1"">[...]</span>, either at the beginning or ending of the week;&nbsp;a <span class=""cloze"" data-cloze=""frequently"" data-ordinal=""1"">[...]</span>&nbsp;asked&nbsp;question;&nbsp;I&nbsp;see&nbsp;him&nbsp;quite&nbsp;<span class=""cloze"" data-cloze=""frequently"" data-ordinal=""1"">[...]</span>.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""How Often Should I Get Acupuncture - Economics Circle Icon - Free  Transparent PNG Clipart Images Download"" src=""images-47900cc7c9cf73a78fbb9e4d9eeb5ae9bcaf7ed0.png""><img alt=""Often meaning in Telugu - Often యొక్క తెలుగు అర్ధం | Multibhashi"" src=""images-bcf718d9258d97f6ce17e0949a092fee94ce3ca6.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">frequently</span> is like very often or many times</span></div>
+<div class=Example><span>We meet&nbsp;<span class=""cloze"" data-ordinal=""1"">frequently</span>, either at the beginning or ending of the week;&nbsp;a <span class=""cloze"" data-ordinal=""1"">frequently</span>&nbsp;asked&nbsp;question;&nbsp;I&nbsp;see&nbsp;him&nbsp;quite&nbsp;<span class=""cloze"" data-ordinal=""1"">frequently</span>.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>fr<b>iː</b>kwəntli</span></div>
+<div class=Russian><span>Часто</span></div>
+<div class=Sound><span>[sound:rec1690444136.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""Project Management Concepts: What is an Issue Log? [Updated]"" src=""paste-f1812a34f61dff001a34225a07162bb2372cab58.jpg""><img alt=""3 Critical Items For Your Issues Log"" src=""paste-62919d9cda779c638cda41fd9bc99e81241c2866.jpg""><img alt=""Common Examples of Social Issues | YourDictionary"" src=""images-51f1ff609f16edd869d2254417fe4c3f347f2d6b.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""issue"" data-ordinal=""1"">[...]</span> is a subject or problem that is often&nbsp;discussed&nbsp;or&nbsp;argued&nbsp;about, especially a social or political matter that&nbsp;affects&nbsp;the interests of a lot of people</span></div>
+<div class=Example><span>Abortion is a highly controversial <span class=""cloze"" data-cloze=""issue"" data-ordinal=""1"">[...]</span>;&nbsp;The men spoke about&nbsp;<span class=""cloze"" data-cloze=""issues"" data-ordinal=""1"">[...]</span>&nbsp;that were important to the people.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""Project Management Concepts: What is an Issue Log? [Updated]"" src=""paste-f1812a34f61dff001a34225a07162bb2372cab58.jpg""><img alt=""3 Critical Items For Your Issues Log"" src=""paste-62919d9cda779c638cda41fd9bc99e81241c2866.jpg""><img alt=""Common Examples of Social Issues | YourDictionary"" src=""images-51f1ff609f16edd869d2254417fe4c3f347f2d6b.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">issue</span> is a subject or problem that is often&nbsp;discussed&nbsp;or&nbsp;argued&nbsp;about, especially a social or political matter that&nbsp;affects&nbsp;the interests of a lot of people</span></div>
+<div class=Example><span>Abortion is a highly controversial <span class=""cloze"" data-ordinal=""1"">issue</span>;&nbsp;The men spoke about&nbsp;<span class=""cloze"" data-ordinal=""1"">issues</span>&nbsp;that were important to the people.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>ˈɪʃ<b>uː</b></span></div>
+<div class=Russian><span>Вопрос, проблема, дилемма</span></div>
+<div class=Sound><span>[sound:rec1690444901.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""Patient Influencers Paid By Pharmaceutical Companies Should Be Required To  Disclose Industry Ties | Health Affairs"" src=""paste-484538df18a0ede93b767f3b693097a8bd0c2b3e.jpg""><img src=""23156.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""patient"" data-ordinal=""1"">[...]</span> is someone who is receiving&nbsp;medical&nbsp;treatment&nbsp;from a&nbsp;doctor&nbsp;or in a&nbsp;hospital; OR <span class=""cloze"" data-cloze=""patient"" data-ordinal=""1"">[...]</span> is someone who keeping calm for a long time</span></div>
+<div class=Example><span>I had to be&nbsp;<span class=""cloze"" data-cloze=""patient"" data-ordinal=""1"">[...]</span>&nbsp;and wait until 5 o’clock to leave;&nbsp;You need to be&nbsp;<span class=""cloze"" data-cloze=""patient"" data-ordinal=""1"">[...]</span> with&nbsp;children.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""Patient Influencers Paid By Pharmaceutical Companies Should Be Required To  Disclose Industry Ties | Health Affairs"" src=""paste-484538df18a0ede93b767f3b693097a8bd0c2b3e.jpg""><img src=""23156.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">patient</span> is someone who is receiving&nbsp;medical&nbsp;treatment&nbsp;from a&nbsp;doctor&nbsp;or in a&nbsp;hospital; OR <span class=""cloze"" data-ordinal=""1"">patient</span> is someone who keeping calm for a long time</span></div>
+<div class=Example><span>I had to be&nbsp;<span class=""cloze"" data-ordinal=""1"">patient</span>&nbsp;and wait until 5 o’clock to leave;&nbsp;You need to be&nbsp;<span class=""cloze"" data-ordinal=""1"">patient</span> with&nbsp;children.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>ˈp<b>eɪ</b>ʃənt</span></div>
+<div class=Russian><span>Пациент, терпеливый</span></div>
+<div class=Sound><span>[sound:rec1690444998.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img src=""23159.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""represent"" data-ordinal=""1"">[...]</span> is an officially&nbsp;speak&nbsp;or take&nbsp;action&nbsp;for another person or group of people</span></div>
+<div class=Example><span>Mr Kobayashi was chosen to <span class=""cloze"" data-cloze=""represent"" data-ordinal=""1"">[...]</span> the company at the conference.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img src=""23159.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">represent</span> is an officially&nbsp;speak&nbsp;or take&nbsp;action&nbsp;for another person or group of people</span></div>
+<div class=Example><span>Mr Kobayashi was chosen to <span class=""cloze"" data-ordinal=""1"">represent</span> the company at the conference.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>reprɪˈz<b>e</b>nt</span></div>
+<div class=Russian><span>Представлять, быть представителем</span></div>
+<div class=Sound><span>[sound:rec1690446931.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img src=""23162.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""stroll"" data-ordinal=""1"">[...]</span> is to walk somewhere in a&nbsp;slow&nbsp;relaxed&nbsp;way</span></div>
+<div class=Example><span>We were <span class=""cloze"" data-cloze=""strolling"" data-ordinal=""1"">[...]</span> along, laughing and joking;&nbsp;My dog and I&nbsp;<span class=""cloze"" data-cloze=""strolled"" data-ordinal=""1"">[...]</span>&nbsp;through the park today.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img src=""23162.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">stroll</span> is to walk somewhere in a&nbsp;slow&nbsp;relaxed&nbsp;way</span></div>
+<div class=Example><span>We were <span class=""cloze"" data-ordinal=""1"">strolling</span> along, laughing and joking;&nbsp;My dog and I&nbsp;<span class=""cloze"" data-ordinal=""1"">strolled</span>&nbsp;through the park today.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>str<b>oʊ</b>l</span></div>
+<div class=Russian><span>Прогуливаться</span></div>
+<div class=Sound><span>[sound:rec1690447207.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""5 Ways To Spread Content, Whatever It Is"" src=""paste-9ab904be95bc176d4b66ba6c46c450c92967daeb.jpg""><img alt=""Reducing Risk with a Credit Spread Options Strategy | Charles Schwab"" src=""images-a9e106bfde9a11b568f34fe98147724e2c88229e.png"">
+<div class=Definition><span>if something <span class=""cloze"" data-cloze=""spreads"" data-ordinal=""1"">[...]</span> or is <span class=""cloze"" data-cloze=""spread"" data-ordinal=""1"">[...]</span>, it becomes larger or moves so that it affects more people or a larger area</span></div>
+<div class=Example><span>Fire quickly <span class=""cloze"" data-cloze=""spread"" data-ordinal=""1"">[...]</span> through the building; I like to&nbsp;<span class=""cloze"" data-cloze=""spread"" data-ordinal=""1"">[...]</span>&nbsp;butter on my toast.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""5 Ways To Spread Content, Whatever It Is"" src=""paste-9ab904be95bc176d4b66ba6c46c450c92967daeb.jpg""><img alt=""Reducing Risk with a Credit Spread Options Strategy | Charles Schwab"" src=""images-a9e106bfde9a11b568f34fe98147724e2c88229e.png"">
+<div class=Definition><span>if something <span class=""cloze"" data-ordinal=""1"">spreads</span> or is <span class=""cloze"" data-ordinal=""1"">spread</span>, it becomes larger or moves so that it affects more people or a larger area</span></div>
+<div class=Example><span>Fire quickly <span class=""cloze"" data-ordinal=""1"">spread</span> through the building; I like to&nbsp;<span class=""cloze"" data-ordinal=""1"">spread</span>&nbsp;butter on my toast.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>spr<b>e</b>d</span></div>
+<div class=Russian><span>Распостранять, размазывать, распределять</span></div>
+<div class=Sound><span>[sound:rec1690447464.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""Basic+ Word of the Day: forth – WordReference Word of the Day"" src=""paste-c46d0d2c78e735f67330b719dccb79809d420f96.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""forth"" data-ordinal=""1"">[...]</span> is going out from a place or point, and moving&nbsp;forwards&nbsp;or&nbsp;outwards</span></div>
+<div class=Example><span>The&nbsp;knights&nbsp;rode&nbsp;<span class=""cloze"" data-cloze=""forth"" data-ordinal=""1"">[...]</span> into&nbsp;battle;&nbsp;The house will move back and <span class=""cloze"" data-cloze=""forth"" data-ordinal=""1"">[...]</span> if a strong wind blow</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""Basic+ Word of the Day: forth – WordReference Word of the Day"" src=""paste-c46d0d2c78e735f67330b719dccb79809d420f96.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">forth</span> is going out from a place or point, and moving&nbsp;forwards&nbsp;or&nbsp;outwards</span></div>
+<div class=Example><span>The&nbsp;knights&nbsp;rode&nbsp;<span class=""cloze"" data-ordinal=""1"">forth</span> into&nbsp;battle;&nbsp;The house will move back and <span class=""cloze"" data-ordinal=""1"">forth</span> if a strong wind blow</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>f<b>ɔː</b>rθ</span></div>
+<div class=Russian><span>Вперед, подвигаться вперед</span></div>
+<div class=Sound><span>[sound:rec1690447639.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""9 Synonyms To Use Instead Of &quot;Avoid&quot; | Thesaurus.com"" src=""paste-3b48e51eecdcf5c80913d1d1f2acf91adf23a285.jpg""><img alt=""Avoid Like the Plague: Idiom History | Merriam-Webster"" src=""paste-30783a4b5888f3dd50c65941a668a17a3367ed27.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""avoid"" data-ordinal=""1"">[...]</span> is to&nbsp;stay&nbsp;away from someone or something, or not use something; OR <span class=""cloze"" data-cloze=""avoid"" data-ordinal=""1"">[...]</span> is&nbsp;to&nbsp;prevent&nbsp;something from&nbsp;happening</span></div>
+<div class=Example><span>He's been <span class=""cloze"" data-cloze=""avoiding"" data-ordinal=""1"">[...]</span> me all&nbsp;week; OR it is important to take measures to <span class=""cloze"" data-cloze=""avoid"" data-ordinal=""1"">[...]</span> the risk of fire.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""9 Synonyms To Use Instead Of &quot;Avoid&quot; | Thesaurus.com"" src=""paste-3b48e51eecdcf5c80913d1d1f2acf91adf23a285.jpg""><img alt=""Avoid Like the Plague: Idiom History | Merriam-Webster"" src=""paste-30783a4b5888f3dd50c65941a668a17a3367ed27.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">avoid</span> is to&nbsp;stay&nbsp;away from someone or something, or not use something; OR <span class=""cloze"" data-ordinal=""1"">avoid</span> is&nbsp;to&nbsp;prevent&nbsp;something from&nbsp;happening</span></div>
+<div class=Example><span>He's been <span class=""cloze"" data-ordinal=""1"">avoiding</span> me all&nbsp;week; OR it is important to take measures to <span class=""cloze"" data-ordinal=""1"">avoid</span> the risk of fire.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>əˈv<b>ɔ</b>ɪd</span></div>
+<div class=Russian><span>Избегать</span></div>
+<div class=Sound><span>[sound:rec1690447931.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""What's the Difference Between UNIQUE and DISTINCT in SQL? | LearnSQL.com"" src=""paste-4109d81ff763cf13f21e1bebdae09a1998833034.jpg""><img alt=""Distinct Property"" src=""paste-cbc838b76197464c2c7266990578ea2590e27a21.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""distinct"" data-ordinal=""1"">[...]</span> is clearly different or belonging to a different type; <span class=""cloze"" data-cloze=""distinct"" data-ordinal=""1"">[...]</span> is&nbsp;different and&nbsp;separate</span></div>
+<div class=Example><span>There are four <span class=""cloze"" data-cloze=""distinct"" data-ordinal=""1"">[...]</span> types;&nbsp;This word has three <span class=""cloze"" data-cloze=""distinct"" data-ordinal=""1"">[...]</span>&nbsp;meanings.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""What's the Difference Between UNIQUE and DISTINCT in SQL? | LearnSQL.com"" src=""paste-4109d81ff763cf13f21e1bebdae09a1998833034.jpg""><img alt=""Distinct Property"" src=""paste-cbc838b76197464c2c7266990578ea2590e27a21.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">distinct</span> is clearly different or belonging to a different type; <span class=""cloze"" data-ordinal=""1"">distinct</span> is&nbsp;different and&nbsp;separate</span></div>
+<div class=Example><span>There are four <span class=""cloze"" data-ordinal=""1"">distinct</span> types;&nbsp;This word has three <span class=""cloze"" data-ordinal=""1"">distinct</span>&nbsp;meanings.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>dɪˈst<b>ɪ</b>ŋkt</span></div>
+<div class=Russian><span>Разный, различный</span></div>
+<div class=Sound><span>[sound:rec1690480584.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""What is Sake? - Dutch Wasabi"" src=""paste-1f64419c9c2ea30746b74e7a410f25d0716ad520.jpg"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""sake"" data-ordinal=""1"">[...]</span> is like for this&nbsp;reason&nbsp;or&nbsp;purpose</span></div>
+<div class=Example><span>For safety's <span class=""cloze"" data-cloze=""sake"" data-ordinal=""1"">[...]</span>, you shouldn't&nbsp;swim&nbsp;alone;&nbsp;For your health's&nbsp;<span class=""cloze"" data-cloze=""sake"" data-ordinal=""1"">[...]</span>, it is important not to&nbsp;let&nbsp;yourself get&nbsp;overweight.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""What is Sake? - Dutch Wasabi"" src=""paste-1f64419c9c2ea30746b74e7a410f25d0716ad520.jpg"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">sake</span> is like for this&nbsp;reason&nbsp;or&nbsp;purpose</span></div>
+<div class=Example><span>For safety's <span class=""cloze"" data-ordinal=""1"">sake</span>, you shouldn't&nbsp;swim&nbsp;alone;&nbsp;For your health's&nbsp;<span class=""cloze"" data-ordinal=""1"">sake</span>, it is important not to&nbsp;let&nbsp;yourself get&nbsp;overweight.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>s<b>e</b>ɪk</span></div>
+<div class=Russian><span>Ради, для, в целях чего-либо</span></div>
+<div class=Sound><span>[sound:rec1690481435.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""Subsequent Events Disclosure: Example &amp; Analysis - Video &amp; Lesson  Transcript | Study.com"" src=""paste-eb23466af05b7fade939905de9faa014f4cceec6.jpg""><img alt=""Subsequence "" src=""7440289.png"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""subsequent"" data-ordinal=""1"">[...]</span> is happening or coming after something else</span></div>
+<div class=Example><span>events that happened <span class=""cloze"" data-cloze=""subsequent"" data-ordinal=""1"">[...]</span> to the accident;&nbsp;The&nbsp;mistakes&nbsp;were&nbsp;corrected&nbsp;in a <span class=""cloze"" data-cloze=""subsequent"" data-ordinal=""1"">[...]</span>&nbsp;edition&nbsp;of the&nbsp;book.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""Subsequent Events Disclosure: Example &amp; Analysis - Video &amp; Lesson  Transcript | Study.com"" src=""paste-eb23466af05b7fade939905de9faa014f4cceec6.jpg""><img alt=""Subsequence "" src=""7440289.png"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">subsequent</span> is happening or coming after something else</span></div>
+<div class=Example><span>events that happened <span class=""cloze"" data-ordinal=""1"">subsequent</span> to the accident;&nbsp;The&nbsp;mistakes&nbsp;were&nbsp;corrected&nbsp;in a <span class=""cloze"" data-ordinal=""1"">subsequent</span>&nbsp;edition&nbsp;of the&nbsp;book.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>ˈs<b>ʌ</b>bsəkwənt</span></div>
+<div class=Russian><span>Последующий, более поздний</span></div>
+<div class=Sound><span>[sound:rec1690481661.mp3]</span></div>
+"
+"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<img alt=""HOW TO WRITE AN ASSIGNMENT GUIDELINES FOR STUDENTS"" src=""paste-a41d79db5bd892dc230c3aeeca4246682e5e85e7.jpg""><img alt=""Assigment "" src=""1402117.png"">
+<div class=Definition><span><span class=""cloze"" data-cloze=""assigment"" data-ordinal=""1"">[...]</span> is a piece of work that is given to someone as part of their job</span></div>
+<div class=Example><span>She’s gone to Italy on a special <span class=""cloze"" data-cloze=""assignment"" data-ordinal=""1"">[...]</span>;&nbsp;She&nbsp;stayed&nbsp;late to&nbsp;complete&nbsp;a&nbsp;class&nbsp;<span class=""cloze"" data-cloze=""assignment"" data-ordinal=""1"">[...]</span>.</span></div>
+
+"	"<script>document.getElementById('Deck').innerHTML=""My cards"".replace(""::"","" &minus; "");</script>
+
+<a class='ankiru' href='https://vk.com/ankiru' title='vk.com/ankiru'></a>
+
+<img alt=""HOW TO WRITE AN ASSIGNMENT GUIDELINES FOR STUDENTS"" src=""paste-a41d79db5bd892dc230c3aeeca4246682e5e85e7.jpg""><img alt=""Assigment "" src=""1402117.png"">
+<div class=Definition><span><span class=""cloze"" data-ordinal=""1"">assigment</span> is a piece of work that is given to someone as part of their job</span></div>
+<div class=Example><span>She’s gone to Italy on a special <span class=""cloze"" data-ordinal=""1"">assignment</span>;&nbsp;She&nbsp;stayed&nbsp;late to&nbsp;complete&nbsp;a&nbsp;class&nbsp;<span class=""cloze"" data-ordinal=""1"">assignment</span>.</span></div>
+
+
+
+<!hr id=answer>
+
+<div class=Pronunciation><span>əˈs<b>a</b>ɪnmənt</span></div>
+<div class=Russian><span>Задание, назначение</span></div>
+<div class=Sound><span>[sound:rec1690481897.mp3]</span></div>
+"
