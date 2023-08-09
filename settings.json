@@ -1,104 +1,129 @@
 {
-   // Внешний вид рабочей среды:
-
-   "workbench.colorTheme": "One Dark Pro Monokai Darker",
-   "workbench.iconTheme": "material-icon-theme",
-   "workbench.startupEditor": "none",
-   "workbench.editor.closeEmptyGroups": false,
-   "workbench.layoutControl.enabled": false,
-
-   "workbench.colorCustomizations": {
-      "editor.background": "#191b1f",
-      "scrollbar.shadow": "#ffffff00",
-      "widget.shadow": "#ffffff00",
-      "titleBar.activeBackground": "#0f1113",
-      "statusBar.background": "#0f1113",
-      "editorIndentGuide.activeBackground": "#ffffff40",
-      "editorIndentGuide.background": "#ffffff10",
-      "editorBracketMatch.border": "#34e5eb95",
-      "editorBracketMatch.background": "#34e5eb45",
-      "sideBar.background": "#17191c",
-      "editorGroupHeader.tabsBackground": "#17191c",
-      "tab.inactiveBackground": "#1b1e21",
-      "editor.lineHighlightBackground": "#cfdfff15",
-      "editor.foldBackground": "#cfdfff07",
-      "editorError.foreground": "#fc0303"
-   },
-
-   // Общие настройки функций редактора:
-
-   "editor.minimap.enabled": false,
-   "editor.wordWrap": "on",
-   "editor.guides.indentation": true,
-   "editor.renderWhitespace": "none",
-   "editor.detectIndentation": false,
-   "editor.mouseWheelZoom": true,
-   "editor.formatOnSave": true,
-   "editor.hover.enabled": false,
-   "editor.tabSize": 3, // Устанавливает размер отступов
-   "explorer.confirmDragAndDrop": false, // Отключает подтверждение при drag and drop файлов
-   "explorer.confirmDelete": false, // Отключает подтверждение удаления файла
-   "breadcrumbs.enabled": false, // Отключает хлебные крошки
-   "files.insertFinalNewline": true,
-   "files.trimFinalNewlines": true,
-   "files.trimTrailingWhitespace": true,
-   "editor.cursorBlinking": "smooth",
-
-   // Настройки форматирования HTML:
-
-   "html.format.wrapLineLength": 0,
-   "[html]": {
-      "editor.defaultFormatter": "vscode.html-language-features"
-   },
-
-   // Настройки форматирования JavaScript:
-
-   "prettier.printWidth": 120,
-   "prettier.tabWidth": 3,
-   "[javascript]": {
-      "editor.defaultFormatter": "vscode.typescript-language-features"
-   },
-
-   // Настройки LiveServer:
-
-   "liveServer.settings.donotShowInfoMsg": true,
-   "liveSassCompile.settings.showOutputWindowOn": "None",
-   "liveSassCompile.settings.generateMap": false,
-
-   // Блок настроек форматирования CSS:
-
-   "scss.format.newlineBetweenSelectors": false,
-   "css.format.newlineBetweenSelectors": false,
-   "css.format.spaceAroundSelectorSeparator": true,
-   "scss.format.spaceAroundSelectorSeparator": true,
-
-   "[css]": {
-      "editor.defaultFormatter": "vscode.css-language-features"
-   },
-   "[scss]": {
-      "editor.defaultFormatter": "vscode.css-language-features"
-   },
-
-   "ecsstractor_port.bem_nesting": true,
-
-   "stylelint.snippet": ["css", "less", "postcss", "scss"],
-   "stylelint.validate": ["css", "less", "postcss", "scss"],
-   "scss.validate": false,
-   "css.validate": false,
-   "less.validate": false,
-   "editor.codeActionsOnSave": {
-      "source.fixAll.stylelint": true
-   },
-
-   // Проверяльщики правописания:
-
-   "cSpell.userWords": ["amilogicface", "learnjavascript", "logicface", "Oloviannikov", "Photoshop"],
-   "vscodeGoogleTranslate.preferredLanguage": "English",
-   "cSpell.language": "en, ru",
-
-   // Отключает отправку ошибок и других штук:
-
-   "telemetry.enableTelemetry": false,
-   "telemetry.enableCrashReporter": false,
-   "terminal.integrated.defaultProfile.windows": "Git Bash"
+    "workbench.iconTheme": "material-icon-theme", // Устанавливает тему для иконок
+    "workbench.startupEditor": "newUntitledFile", // Убирает приветственный экран
+    "git.ignoreMissingGitWarning": true, // Отключает сообщение о отсутствии профиля Git
+    "workbench.activityBar.visible": false, // Отключает отображение маленькой боковой панели действий
+    "files.defaultLanguage": "html", // Устанавливает стандартный язык для нового документа
+    "editor.glyphMargin": false, // Отключает точки остановки для отлаживания кода
+    "editor.parameterHints.enabled": false, // Отключает документацию при редактировании кода
+    "editor.folding": false, // Отключает возможность сворачивать блоки кода
+    "security.workspace.trust.enabled": false, // Отключает запросы о доверии при открытии документов
+    "editor.insertSpaces": true, // Включает замену табов на пробелы
+    "editor.linkedEditing": true, // Включает связанное редактирование
+    // "editor.hover.enabled": false, // Отключает подсказки при наведении
+    "editor.tabSize": 4, // Устанавливает размер отступов
+    "explorer.confirmDragAndDrop": false, // Отключает подтверждение при drag and drop файлов
+    "explorer.confirmDelete": false, // Отключает подтверждение удаления файла
+    "breadcrumbs.enabled": false, // Отключает хлебные крошки
+    "editor.detectIndentation": false, // Отключает индикацию отступов других пользователей
+    "editor.minimap.enabled": false, // Отключает миникарту
+    "editor.cursorBlinking": "smooth", // Включает плавную прокрутку
+    "workbench.editor.closeEmptyGroups": false,
+    "workbench.layoutControl.enabled": false,
+    "editor.mouseWheelZoom": true, // Включает возможность зумирования мышкой
+    "editor.formatOnSave": true, // Включает автоматическое форматирование при сохранении
+    "editor.smoothScrolling": true, // Включает плавную прокрутку
+    "telemetry.enableTelemetry": false, // Отключает телеметрию
+    "telemetry.enableCrashReporter": false, // ОТключает отправку сообщений о сбоях
+    "terminal.integrated.defaultProfile.windows": "Git Bash", // Устанавливает базовый язык терминала
+    "editor.wordWrap": "on",
+    "editor.guides.indentation": true,
+    "editor.renderWhitespace": "none",
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "editor.wordSeparators": "`~!@#$%^&*()=+[{]}\\|;:'\",.<>/?",
+    // Настройки LiveServer:
+    "liveServer.settings.donotShowInfoMsg": true, // Отключает отображение сообщений от liveserver
+    "liveServer.settings.donotVerifyTags": true, // Отключает предупреждающие сообщения от liveserver
+    // Настройки Sass:
+    "liveSassCompile.settings.showOutputWindowOn": "None",
+    "liveSassCompile.settings.generateMap": false,
+    // Настройки форматирования HTML:
+    "html.format.wrapLineLength": 0,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    // Настройки форматирования JavaScript:
+    "prettier.printWidth": 120, // Устанавливает максимальную длину строки
+    "prettier.tabWidth": 4, // Устанавливает размер отступов для JS
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    // Блок настроек форматирования CSS:
+    "scss.format.newlineBetweenSelectors": false,
+    "css.format.newlineBetweenSelectors": false,
+    "css.format.spaceAroundSelectorSeparator": true,
+    "scss.format.spaceAroundSelectorSeparator": true,
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "[scss]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "[sass]": {
+        "editor.defaultFormatter": "syler.sass-indented"
+    },
+    "stylelint.snippet": ["css", "less", "postcss", "scss", "sass"],
+    "stylelint.validate": ["css", "less", "postcss", "scss", "sass"],
+    "scss.validate": false,
+    "css.validate": false,
+    "less.validate": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.stylelint": true
+    },
+    // Дополнительная настройка цветов редактора
+    "workbench.colorCustomizations": {
+        "editor.background": "#191b1f",
+        "scrollbar.shadow": "#ffffff00",
+        "widget.shadow": "#ffffff00",
+        "titleBar.activeBackground": "#0f1113",
+        "statusBar.background": "#0f1113",
+        "editorIndentGuide.activeBackground": "#ffffff40",
+        "editorIndentGuide.background": "#ffffff10",
+        "editorBracketMatch.border": "#34e5eb95",
+        "editorBracketMatch.background": "#34e5eb45",
+        "sideBar.background": "#17191c",
+        "editorGroupHeader.tabsBackground": "#17191c",
+        "tab.inactiveBackground": "#1b1e21",
+        "editor.lineHighlightBackground": "#cfdfff15",
+        "editor.foldBackground": "#cfdfff07",
+        "editorError.foreground": "#fc0303"
+    },
+    "cssPeek.peekFromLanguages": [
+        "html",
+        "django-html",
+        "laravel-blade",
+        "razor",
+        "vue",
+        "blade",
+        "pug",
+        "jade",
+        "handlebars",
+        "php",
+        "twig",
+        "md",
+        "nunjucks",
+        "javascript",
+        "javascriptreact",
+        "erb",
+        "typescript",
+        "typescriptreact",
+        "HTML (Eex)",
+        "html-eex",
+        "ejs",
+        "hbs",
+        "svelte",
+        "pug"
+    ],
+    "ecsstractor_port.bem_nesting": true, // Учитывать БЭМ вложенность
+    "ecsstractor_port.indentation": "    ", // Тип отступов при формировании БЭМ дерева
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": false
+    },
+    "ecsstractor_port.add_comment": false,
+    "workbench.colorTheme": "One Dark Pro Monokai Darker", // Базовая тема редактора
+    "cSpell.language": "en,ru", // Выбор языков проверки слов на ошибки
 }
